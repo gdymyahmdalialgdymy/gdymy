@@ -1,0 +1,1496 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://wiki.debian.org/Firmware#Updating_firmware
+Subject: =?utf-8?Q?=D8=A7=D9=84=D8=A8=D8=B1=D8=A7=D9=85=D8=AC=20=D8=A7=D9=84=D8=AB?=
+ =?utf-8?Q?=D8=A7=D8=A8=D8=AA=D8=A9=20-=20Debian=20Wiki?=
+Date: Fri, 15 Oct 2021 02:22:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----"
+
+
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/html
+Content-ID: <frame-C6D48100E627E6FC62272F3910E33408@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/Firmware#Updating_firmware
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="translated-rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://wiki.debian.org/htdocs/favicon.ico">
+
+
+<meta name="robots" content="index,nofollow">
+
+<title>Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© - Debian Wiki</title>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="https://wiki.debian.org/htdocs/debwiki/css/common.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="https://wiki.debian.org/htdocs/debwiki/css/screen.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="https://wiki.debian.org/htdocs/debwiki/css/print.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="https://wiki.debian.org/htdocs/debwiki/css/projection.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="https://wiki.debian.org/htdocs/debian-wiki-1.0.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/htdocs/debwiki/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="ÙˆÙŠÙƒÙŠ Ø¯Ø¨ÙŠØ§Ù†: Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©" href="https://wiki.debian.org/Firmware?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=Firmware&amp;ddiffs=1" type="application/rss+xml">
+
+
+<link rel="Start" href="https://wiki.debian.org/FrontPage">
+<link rel="Alternate" title="ØªÙˆØµÙŠÙ Ø§Ù„ÙˆÙŠÙƒÙŠ" href="https://wiki.debian.org/Firmware?action=raw">
+<link rel="Alternate" media="print" title="Ù…Ø¹Ø§ÙŠÙ†Ø© Ø§Ù„Ø·Ø¨Ø§Ø¹Ø©" href="https://wiki.debian.org/Firmware?action=print">
+<link rel="Search" href="https://wiki.debian.org/FindPage">
+<link rel="Index" href="https://wiki.debian.org/TitleIndex">
+<link rel="Glossary" href="https://wiki.debian.org/WordIndex">
+<link rel="Help" href="https://wiki.debian.org/HelpOnFormatting">
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
+
+<body lang="ar" dir="rtl">
+<div id="logo"><a href="https://www.debian.org/" title="Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ù„Ø¯Ø¨ÙŠØ§Ù†"><img src="https://www.debian.org/Pics/openlogo-50.png" alt="Ø¯ÙŠØ¨ÙŠØ§Ù†" width="50" height="61"></a></div>
+<div id="header">
+<div id="wikisection">
+<p class="section"><a href="https://wiki.debian.org/FrontPage" title="Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ù„Ù€ Debian Wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠ</font></font></a></p>
+<div id="username"><a href="https://wiki.debian.org/Firmware?action=login" id="login" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙ„ÙˆØ¬</font></font></a></div>
+</div>
+<div id="navbar">
+
+<ul id="navibar">
+<li class="wikilink"><a href="https://wiki.debian.org/FrontPage"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø£Ù…Ø§Ù…ÙŠØ©</font></font></a></li><li class="wikilink"><a href="https://wiki.debian.org/RecentChanges"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RecentChanges</font></font></a></li><li class="wikilink"><a href="https://wiki.debian.org/FindPage"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FindPage</font></font></a></li><li class="wikilink"><a href="https://wiki.debian.org/HelpContents"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø³Ø§Ø¹Ø¯Ø© Ù…Ø­ØªÙˆÙŠØ§Øª</font></font></a></li><li class="current"><a href="https://wiki.debian.org/Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a></li>
+</ul>
+
+</div>
+
+<form id="searchform" method="get" action="https://wiki.debian.org/Firmware">
+<div>
+
+
+<label for="searchinput" style="display: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø­Ø«:</font></font></label>
+<input id="searchinput" type="text" name="value" value="" size="20" alt="Ø¨Ø­Ø«" class="disabled">
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input id="titlesearch" name="titlesearch" type="submit" value="Ø§Ù„Ø¹Ù†Ø§ÙˆÙŠÙ† " alt="Ø§Ù„Ø¨Ø­Ø« ÙÙŠ Ø§Ù„Ø¹Ù†Ø§ÙˆÙŠÙ†" disabled=""></font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input id="fullsearch" name="fullsearch" type="submit" value="Ø§Ù„Ù†Øµ" alt="Ø§Ø¨Ø­Ø« Ø¹Ù† Ø§Ù„Ù†Øµ Ø§Ù„ÙƒØ§Ù…Ù„" disabled=""></font></font>
+</div>
+</form>
+
+
+<div id="logo"><a href="https://www.debian.org/" title="Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ù„Ø¯Ø¨ÙŠØ§Ù†"><img src="https://www.debian.org/Pics/openlogo-50.png" alt="Ø¯ÙŠØ¨ÙŠØ§Ù†" width="50" height="61"></a></div>
+
+<div id="breadcrumbs"><a href="https://wiki.debian.org/FrontPage" title="Ø§Ù„ØµÙØ­Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ù„Ù€ Debian Wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠ </font></font></a><span class="sep"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/</font></font></span>
+
+</div>
+
+<ul class="editbar"><li><a href="https://wiki.debian.org/Firmware?action=login" id="login-1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙ„ÙˆØ¬</font></font></a></li><li class="toggleCommentsButton" style="display:none;"><a href="https://wiki.debian.org/Firmware#" class="nbcomment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ¹Ù„ÙŠÙ‚Ø§Øª</font></font></a></li><li><a class="nbinfo" href="https://wiki.debian.org/Firmware?action=info" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø¹Ù„ÙˆÙ…Ø§Øª</font></font></a></li><li><a class="nbattachments" href="https://wiki.debian.org/Firmware?action=AttachFile" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ù…Ø±ÙÙ‚Ø§Øª</font></font></a></li><li>
+<form class="actionsmenu" method="GET" action="https://wiki.debian.org/Firmware">
+<div>
+    
+    <select name="action">
+        <option value="show"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø£ÙØ¹Ø§Ù„:</font></font></option><option value="raw"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù†Øµ Ù…Ø¬Ø±Ø¯</font></font></option>
+<option value="print"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø¹Ø§ÙŠÙ†Ø© Ø§Ù„Ø·Ø¨Ø§Ø¹Ø©</font></font></option>
+<option value="RenderAsDocbook"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‚Ø¯Ù… Ùƒ Docbook</font></font></option>
+<option value="refresh"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø­Ùˆ Ø§Ù„Ù…Ø®Ø¨Ø£</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------</font></font></option>
+<option value="SpellCheck"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø±Ø§Ø¬Ø¹ Ø§Ù„ØªÙ‡Ø¬Ø¦Ø©</font></font></option>
+<option value="LikePages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØµÙØ­Ø§Øª Ù…Ø´Ø§Ø¨Ù‡</font></font></option>
+<option value="LocalSiteMap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø®Ø§Ø±Ø·Ø© Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ø§Ù„Ù…Ø­Ù„ÙŠØ©</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------</font></font></option>
+<option value="RenamePage" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø£Ø¹Ø¯ ØªØ³Ù…ÙŠØ© Ø§Ù„ØµÙØ­Ø©</font></font></option>
+<option value="DeletePage" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ø­Ø°Ù Ø§Ù„ØµÙØ­Ø©</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ø´Ø±Ùƒ Ù…Ø³ØªØ®Ø¯Ù…</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ø­Ø°Ù Ø§Ù„Ø¨Ø±ÙŠØ¯ Ø§Ù„Ø¹Ø´ÙˆØ§Ø¦ÙŠ</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¹Ø¯ Ø§Ù„ÙŠ Ù‡Ø°Ù‡ Ø§Ù„Ù†Ø³Ø®Ø©</font></font></option>
+<option value="PackagePages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø±Ø²Ù… ØµÙØ­Ø§Øª</font></font></option>
+<option value="show" disabled="" class="disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------</font></font></option>
+<option value="Load"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø­Ù…Ù‘Ù„</font></font></option>
+<option value="Save"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø­ÙØ¸</font></font></option>
+<option value="SlideShow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¹Ø±Ø¶ Ø§Ù„Ø´Ø±Ø§Ø¦Ø­</font></font></option>
+    </select>
+    
+    
+</div>
+
+</form>
+</li></ul>
+
+<h1 id="locationline">
+
+
+<ul id="pagelocation">
+<li><a href="https://wiki.debian.org/Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a></li>
+</ul>
+
+</h1>
+</div>
+
+<div id="page" lang="en" dir="ltr">
+<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><span class="anchor" id="line-2"></span><p class="line867"><small><a href="https://wiki.debian.org/DebianWiki/EditorGuide#translation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„ØªØ±Ø¬Ù…Ø© (Ø§Ù„ØªØ±Ø¬Ù…Ø§Øª)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> : English -   </font></font><a href="https://wiki.debian.org/es/Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EspaÃ±ol</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - </font></font><a href="https://wiki.debian.org/fr/firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FranÃ§ais</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - </font></font><a href="https://wiki.debian.org/it/Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Italiano</font></font></a></small> <span class="anchor" id="line-3"></span></p><hr><p class="line874"> <span class="anchor" id="line-4"></span><span class="anchor" id="line-5"></span></p><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙŠØ´ÙŠØ± Ø§Ù„Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨Øª Ø¥Ù„Ù‰ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ù…Ø¶Ù…Ù†Ø© Ø§Ù„ØªÙŠ ØªØªØ­ÙƒÙ… ÙÙŠ Ø§Ù„Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©. </font><font style="vertical-align: inherit;">Ù„Ø§ ØªÙˆØ¬Ø¯ Ø­Ø¯ÙˆØ¯ Ù…Ø­Ø¯Ø¯Ø© Ø¬ÙŠØ¯Ù‹Ø§ Ø¨ÙŠÙ† Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© ÙˆØ§Ù„Ø¨Ø±Ø§Ù…Ø¬ ØŒ Ø­ÙŠØ« ÙŠØºØ·ÙŠ ÙƒÙ„Ø§ Ø§Ù„Ù…ØµØ·Ù„Ø­ÙŠÙ† Ø¨Ø¹Ø¶Ù‹Ø§ Ù…Ù† Ù†ÙØ³ Ø§Ù„ÙƒÙˆØ¯. </font><font style="vertical-align: inherit;">Ø¹Ø§Ø¯Ø©Ù‹ Ù…Ø§ ÙŠØªØ¹Ø§Ù…Ù„ Ù…ØµØ·Ù„Ø­ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ù…Ø¹ Ø§Ù„Ø¹Ù…Ù„ÙŠØ§Øª Ù…Ù†Ø®ÙØ¶Ø© Ø§Ù„Ù…Ø³ØªÙˆÙ‰ ÙÙŠ Ø§Ù„Ø¬Ù‡Ø§Ø² ØŒ ÙˆØ§Ù„ØªÙŠ Ø¨Ø¯ÙˆÙ†Ù‡Ø§ Ø³ÙŠÙƒÙˆÙ† Ø§Ù„Ø¬Ù‡Ø§Ø² ØºÙŠØ± ÙØ¹Ø§Ù„ ØªÙ…Ø§Ù…Ù‹Ø§ </font></font><small><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">(Ø§Ù‚Ø±Ø£ Ø§Ù„Ù…Ø²ÙŠØ¯ Ø¹Ù„Ù‰ </font></font><a class="interwiki" href="https://en.wikipedia.org/wiki/Firmware" title="ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></small><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font><span class="anchor" id="line-6"></span><span class="anchor" id="line-7"></span></p><p class="line867"></p><div class="table-of-contents"><p class="table-of-contents-heading"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø­ØªÙˆÙŠØ§Øª</font></font></p><ol><li>
+<a href="https://wiki.debian.org/Firmware#Devices.2FDrivers_Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø£Ø¬Ù‡Ø²Ø© / Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a><ol><li>
+<a href="https://wiki.debian.org/Firmware#Firmware_during_the_installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ø£Ø«Ù†Ø§Ø¡ Ø§Ù„ØªØ«Ø¨ÙŠØª</font></font></a></li><li>
+<a href="https://wiki.debian.org/Firmware#Location_of_firmware_files"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…ÙˆÙ‚Ø¹ Ù…Ù„ÙØ§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a></li><li>
+<a href="https://wiki.debian.org/Firmware#List_of_firmware_in_Linux_kernel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© ÙÙŠ Linux kernel</font></font></a></li></ol></li><li>
+<a href="https://wiki.debian.org/Firmware#Computer_Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ù„Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ±</font></font></a></li><li>
+<a href="https://wiki.debian.org/Firmware#Updating_firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a></li><li>
+<a href="https://wiki.debian.org/Firmware#Open_firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§ÙØªØ­ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></a></li></ol></div> <span class="anchor" id="line-8"></span><span class="anchor" id="line-9"></span><p class="line867">
+</p><h2 id="Devices.2FDrivers_Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø£Ø¬Ù‡Ø²Ø© / Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></h2>
+<span class="anchor" id="line-10"></span><span class="anchor" id="line-11"></span><p class="line874"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØªØ·Ù„Ø¨ Ø§Ù„Ø¹Ø¯ÙŠØ¯ Ù…Ù† Ø§Ù„Ø£Ø¬Ù‡Ø²Ø© Ø¨Ø±Ø§Ù…Ø¬ Ø«Ø§Ø¨ØªØ© Ù„Ù„Ø¹Ù…Ù„. </font><font style="vertical-align: inherit;">ØªØ§Ø±ÙŠØ®ÙŠÙ‹Ø§ ØŒ Ø³ÙŠØªÙ… ØªØ¶Ù…ÙŠÙ† Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© ÙÙŠ Ø°Ø§ÙƒØ±Ø© ROM Ø£Ùˆ Ø°Ø§ÙƒØ±Ø© ÙÙ„Ø§Ø´ Ø§Ù„Ø®Ø§ØµØ© Ø¨Ø§Ù„Ø¬Ù‡Ø§Ø² ØŒ ÙˆÙ„ÙƒÙ† ÙÙŠ ÙƒØ«ÙŠØ± Ù…Ù† Ø§Ù„Ø£Ø­ÙŠØ§Ù† ØŒ ÙŠØ¬Ø¨ ØªØ­Ù…ÙŠÙ„ ØµÙˆØ±Ø© Ø§Ù„Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨Øª ÙÙŠ Ø°Ø§ÙƒØ±Ø© Ø§Ù„ÙˆØµÙˆÙ„ Ø§Ù„Ø¹Ø´ÙˆØ§Ø¦ÙŠ Ù„Ù„Ø¬Ù‡Ø§Ø² Ø¨ÙˆØ§Ø³Ø·Ø© Ø¨Ø±Ù†Ø§Ù…Ø¬ ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¬Ù‡Ø§Ø² Ø£Ø«Ù†Ø§Ø¡ ØªÙ‡ÙŠØ¦Ø© Ø§Ù„Ø¬Ù‡Ø§Ø².</font></font><span class="anchor" id="line-12"></span><span class="anchor" id="line-13"></span></p><p class="line867"><a href="https://wiki.debian.org/Firmware#open"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‡Ù†Ø§Ùƒ Ø¹Ø¯Ø¯ Ù‚Ù„ÙŠÙ„ Ù…Ù†</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ø§Ù„ØµÙˆØ± Ø§Ù„Ø«Ø§Ø¨ØªØ© Ù‡ÙŠ Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª Ø§Ù„Ø­Ø±Ø© ÙˆÙ…ÙØªÙˆØ­Ø© Ø§Ù„Ù…ØµØ¯Ø± ÙˆÙ„ÙƒÙ† ØªÙ‚Ø±ÙŠØ¨Ø§ ÙƒÙ„Ù‡Ø§ </font></font><a class="https" href="https://www.debian.org/doc/debian-policy/ch-archive#s-non-free"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØºÙŠØ± Ø­Ø±Ø©</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ Ù…Ù…Ø§ ÙŠØ¹Ù†ÙŠ Ø£Ù†Ùƒ Ø¨Ø­Ø§Ø¬Ø© Ø¥Ù„Ù‰ Ø¥Ø¶Ø§ÙØ© </font></font><tt><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØºÙŠØ± Ø­Ø±Ø©</font></font></tt><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ùˆ </font></font><tt><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contrib</font></font></tt><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ø§Ù„Ù…ÙƒÙˆÙ†Ø§Øª Ù„Ø¯ÙŠÙƒ </font></font><a href="https://wiki.debian.org/SourcesList"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…ØµØ§Ø¯Ø± APT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font><span class="anchor" id="line-14"></span><span class="anchor" id="line-15"></span></p><p class="line867">
+</p><h3 id="Firmware_during_the_installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ø£Ø«Ù†Ø§Ø¡ Ø§Ù„ØªØ«Ø¨ÙŠØª</font></font></h3>
+<span class="anchor" id="line-16"></span><span class="anchor" id="line-17"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙÙŠ Ø¨Ø¹Ø¶ Ø§Ù„Ø­Ø§Ù„Ø§Øª ØŒ ÙŠÙƒØªØ´Ù Ø§Ù„Ù…Ø«Ø¨Øª Ø§Ù„Ø­Ø§Ø¬Ø© Ø¥Ù„Ù‰ Ø¨Ø±Ø§Ù…Ø¬ Ø«Ø§Ø¨ØªØ© ØºÙŠØ± Ù…Ø¬Ø§Ù†ÙŠØ© ÙˆÙŠØ·Ø§Ù„Ø¨ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ø¨Ø¥ØªØ§Ø­Ø© Ø§Ù„Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨Øª Ù„Ù„Ù…Ø«Ø¨Øª Ù„Ø¥ÙƒÙ…Ø§Ù„ Ø§Ù„ØªØ«Ø¨ÙŠØª. </font><font style="vertical-align: inherit;">ÙŠÙ…ÙƒÙ† Ø£Ù† ÙŠØ­Ø¯Ø« Ù‡Ø°Ø§ ØŒ Ø¹Ù„Ù‰ Ø³Ø¨ÙŠÙ„ Ø§Ù„Ù…Ø«Ø§Ù„ ØŒ Ù…Ø¹ Ø¨Ø·Ø§Ù‚Ø§Øª Ø§Ù„Ø´Ø¨ÙƒØ© Ø§Ù„Ù„Ø§Ø³Ù„ÙƒÙŠØ© Ø§Ù„ØªÙŠ ØªØªØ·Ù„Ø¨ ØºØ§Ù„Ø¨Ù‹Ø§ Ø¨Ø±Ø§Ù…Ø¬ Ø«Ø§Ø¨ØªØ© ØºÙŠØ± Ù…Ø¬Ø§Ù†ÙŠØ© Ù„ØªØ¹Ù…Ù„ (Ø§Ù†Ø¸Ø± </font></font><a href="https://wiki.debian.org/ipw2200"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ipw2200</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ø¹Ù„Ù‰ Ø³Ø¨ÙŠÙ„ Ø§Ù„Ù…Ø«Ø§Ù„).</font></font><span class="anchor" id="line-18"></span><span class="anchor" id="line-19"></span></p><p class="line867">
+</p><h4 id="Installation_images_with_firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØµÙˆØ± Ø§Ù„ØªØ«Ø¨ÙŠØª Ù…Ø¹ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></h4>
+<span class="anchor" id="line-20"></span><span class="anchor" id="line-21"></span><p class="line862">An easy method is to use an <strong>installer image</strong> that includes all non-free firmware packages directly. See <a class="https" href="https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/">https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/</a> <span class="anchor" id="line-22"></span><span class="anchor" id="line-23"></span></p><p class="line867">
+</p><h4 id="Firmware_on_removable_media">Firmware on removable media</h4>
+<span class="anchor" id="line-24"></span><span class="anchor" id="line-25"></span><p class="line862">You can also <strong>download the firmware archive</strong> for your platform and unpack it into a directory named <tt class="backtick">firmware</tt> in the root of a removable storage device (USB/CD drive). You can find firmware downloads for your Debian version at <a class="https" href="https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/">https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/</a>. When the installer starts, it will automatically find the firmware files in the directory on the removable storage and, if needed, install the required firmware.  <span class="anchor" id="line-26"></span><span class="anchor" id="line-27"></span></p><p class="line862">In some cases, firmware supplied on removable media may not be detected automatically (e.g. <a class="interwiki open-bug" href="https://bugs.debian.org/740503" title="Open in stretch-alpha8-amd64: #740503: debian-installer: check-missing-firmware does not work with a USB drive that contains a partition table">740503</a>). In these situations, drop to the console (<tt class="backtick">Ctrl+alt+F2</tt>) and manually <a class="interwiki" href="https://manpages.debian.org/man/8/mount" title="Ø¯ÙŠØ¨ÙŠØ§Ù† Ù…Ø§Ù†">mount(8)</a> your removable storage on a temporary directory (e.g. <tt class="backtick">/media</tt>). <span class="anchor" id="line-28"></span><span class="anchor" id="line-29"></span></p><p class="line867">
+</p><h4 id="Firmware_on_removable_media_and_preseeding">Firmware on removable media and preseeding</h4>
+<span class="anchor" id="line-30"></span><span class="anchor" id="line-31"></span><p class="line862">It is also possible to bypass the installer's searching and installation process by <a href="https://wiki.debian.org/DebianInstaller/Preseed">preseeding</a> and providing the firmware files directly to the kernel: <span class="anchor" id="line-32"></span><span class="anchor" id="line-33"></span></p><ul><li><p class="line862">The needed firmware files are assumed to be in a directory named firmware on a FAT partition formatted with <a class="interwiki" href="https://packages.debian.org/dosfstools" title="DebianPkg">mkfs.vfat</a> and <a class="interwiki" href="https://packages.debian.org/dosfstools" title="DebianPkg">labelled</a> FIRMWARE. <span class="anchor" id="line-34"></span><span class="anchor" id="line-35"></span></p></li><li class="gap"><p class="line862">The following addition is made to the installer's kernel command line. It is a single command but has been broken here for readability. Press TAB when the installation choice is highlighted to make the command line visible. A variation on this technique is presented <a href="https://wiki.debian.org/Installation+Archive+USBStick#firmware">elsewhere</a>. <span class="anchor" id="line-36"></span><span class="anchor" id="line-37"></span></p></li></ul><p class="line867"><span class="anchor" id="line-38"></span><span class="anchor" id="line-39"></span><span class="anchor" id="line-40"></span><span class="anchor" id="line-41"></span><span class="anchor" id="line-42"></span></p><pre><span class="anchor" id="line-1"></span>Installation+Archive+USBStick
+<span class="anchor" id="line-2"></span>preseed/early_command="modprobe vfat ; sleep 2 ;
+<span class="anchor" id="line-3"></span>mount /dev/disk/by-label/FIRMWARE /media ;
+<span class="anchor" id="line-4"></span>cp -a /media/firmware /lib"</pre><span class="anchor" id="line-43"></span><span class="anchor" id="line-44"></span><ul><li><p class="line891"><a href="https://wiki.debian.org/DebianInstaller/NetbootFirmware">NetbootFirmware</a> - Firmware for Netbooting. <span class="anchor" id="line-45"></span><span class="anchor" id="line-46"></span></p></li></ul><p class="line874">Once the network is configured, Debian-Installer can fetch firmware from Debian repositories. <span class="anchor" id="line-47"></span><span class="anchor" id="line-48"></span></p><p class="line867">
+</p><h3 id="Location_of_firmware_files">Location of firmware files</h3>
+<span class="anchor" id="line-49"></span><span class="anchor" id="line-50"></span><p class="line867">
+</p><h4 id="Debian_8_.22Jessie.22_and_newer">Debian 8 "Jessie" and newer</h4>
+<span class="anchor" id="line-51"></span><span class="anchor" id="line-52"></span><p class="line867"><a class="interwiki" href="https://packages.debian.org/udev" title="DebianPkg">udev</a> used in Debian Jessie and later, only checks one directory for firmware files: <tt>/lib/firmware</tt>. See <a class="interwiki closed-bug" href="https://bugs.debian.org/729252" title="Closed: #729252: udev: firmware can not be loaded because filesystem not yt mounted">729252</a> for details. <span class="anchor" id="line-53"></span><span class="anchor" id="line-54"></span></p><p class="line867">
+</p><h4 id="Debian_7_.22Wheezy.22.2C_Debian_6.0_.22Squeeze.22">Debian 7 "Wheezy", Debian 6.0 "Squeeze"</h4>
+<span class="anchor" id="line-55"></span><span class="anchor" id="line-56"></span><p class="line862">Firmware is sourced from the following places (see <a class="interwiki" href="https://packages.debian.org/udev" title="DebianPkg">udev</a>'s <tt>/lib/udev/hotplug.functions</tt> and <tt>/lib/udev/firmware.agent</tt>) <span class="anchor" id="line-57"></span></p><ol type="1"><li><p class="line891"><tt>/lib/firmware/$(uname&nbsp;-r)</tt> - Firmware provided by a package, specific for a kernel. <span class="anchor" id="line-58"></span></p></li><li><p class="line891"><tt>/lib/firmware/</tt> - Firmware provided by a package, valid for all kernels. <span class="anchor" id="line-59"></span></p></li><li><p class="line891"><tt>/usr/local/lib/firmware</tt> - Location for manually installed firmware. <span class="anchor" id="line-60"></span></p></li><li><p class="line891"><tt>/usr/lib/hotplug/firmware</tt> - Firmware provided by a package, valid for all kernels <span class="anchor" id="line-61"></span><span class="anchor" id="line-62"></span></p></li></ol><p class="line867">
+</p><h3 id="List_of_firmware_in_Linux_kernel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© ÙÙŠ Linux kernel</font></font></h3>
+<span class="anchor" id="line-63"></span><span class="anchor" id="line-64"></span><p class="line867"><span class="anchor" id="line-65"></span><span class="anchor" id="line-66"></span><span class="anchor" id="line-67"></span></p><div class="note"><span class="anchor" id="line-1-1"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù„Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø§Ù„Ø­Ø²Ù…Ø© Ø§Ù„ØªÙŠ ØªÙˆÙØ± Ù…Ù„Ù Ø¨Ø±Ù†Ø§Ù…Ø¬ Ø«Ø§Ø¨Øª Ù…Ø¹ÙŠÙ† ØŒ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ø³ØªØ®Ø¯Ø§Ù… ØµÙØ­Ø© Ø§Ù„Ø¨Ø­Ø« Ù‡Ø°Ù‡:</font></font><br>
+ <span class="anchor" id="line-2-1"></span><a class="https" href="https://www.debian.org/distrib/packages#search_contents"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.debian.org/distrib/packages#search_contents</font></font></a> </p></div><span class="anchor" id="line-68"></span><span class="anchor" id="line-69"></span><p class="line867"><a href="https://wiki.debian.org/Firmware/List"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ³Ø±Ø¯ </font><a href="https://wiki.debian.org/Firmware/List"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© / Ø§Ù„Ù‚Ø§Ø¦Ù…Ø©</font></a><font style="vertical-align: inherit;"> Ø¬Ù…ÙŠØ¹ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ø§Ù„Ù…ÙˆØ²Ø¹Ø© Ø¹Ù„Ù‰ Ø·ÙˆÙ„ ØµÙˆØ± Ù†ÙˆØ§Ø© Debian Linux.</font></font><span class="anchor" id="line-70"></span><span class="anchor" id="line-71"></span></p><p class="line867">
+</p><h2 id="Computer_Firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ù„Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ±</font></font></h2>
+<span class="anchor" id="line-72"></span><span class="anchor" id="line-73"></span><div><table><tbody><tr>  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EFI / </font></font><a href="https://wiki.debian.org/UEFI"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UEFI</font></font></a> </p></td>
+  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…ÙˆØ¬ÙˆØ¯Ø© ÙÙŠ Ù…Ø¹Ø¸Ù… Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ± ÙˆØ§Ù„Ø®ÙˆØ§Ø¯Ù… x86 Ø§Ù„Ø­Ø¯ÙŠØ«Ø© ØŒ Ø¬Ù†Ø¨Ù‹Ø§ Ø¥Ù„Ù‰ Ø¬Ù†Ø¨ Ù…Ø¹ Ø¨Ø¹Ø¶ Ù„ÙˆØ­Ø§Øª ARM - ( </font></font><a class="interwiki" href="https://en.wikipedia.org/wiki/Extensible_Firmware_Interface" title="ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></p></td>
+</tr>
+<tr>  <td><span class="anchor" id="line-74"></span><p class="line862"> <a href="https://wiki.debian.org/BIOS"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BIOS</font></font></a> </p></td>
+  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„ÙŠÙ‡Ø§ Ø¹Ù„Ù‰ Ø£Ø¬Ù‡Ø²Ø© "IBM-PC" Ø§Ù„Ø£Ù‚Ø¯Ù… ØŒ Ø¨Ø´ÙƒÙ„ Ø¹Ø§Ù… Ù…Ø¹Ø¸Ù… Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ± ÙˆØ§Ù„Ø®ÙˆØ§Ø¯Ù… Ø§Ù„Ø¹Ø§Ø¯ÙŠØ© Ø§Ù„ØªÙŠ ØªÙ… ØªØµÙ†ÙŠØ¹Ù‡Ø§ Ù‚Ø¨Ù„ Ø¹Ø§Ù… 2011 - ( </font></font><a class="interwiki" href="https://en.wikipedia.org/wiki/BIOS" title="ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></p></td>
+</tr>
+<tr>  <td><span class="anchor" id="line-75"></span><p class="line862"> <a href="https://wiki.debian.org/OpenFirmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenFirmware</font></font></a> </p></td>
+  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ù…Ø¹Ø±ÙˆÙ Ø£ÙŠØ¶Ù‹Ø§ Ø¨Ø§Ø³Ù… </font></font><a href="https://wiki.debian.org/OpenBoot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenBoot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ Ø§Ù„Ù…ÙˆØ¬ÙˆØ¯ ÙÙŠ Ø£Ù†Ø¸Ù…Ø© Sun SPARC ØŒ Ùˆ IBM Power ØŒ Ùˆ Apple Macintosh Ø§Ù„Ù…Ø³ØªÙ†Ø¯Ø© Ø¥Ù„Ù‰ PowerPC ØŒ Ùˆ IEEE 1275-1994 ... ( </font></font><a class="interwiki" href="https://en.wikipedia.org/wiki/Open_Firmware" title="ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></p></td>
+</tr>
+<tr>  <td><span class="anchor" id="line-76"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Coreboot (LinuxBIOS) </font></font></p></td>
+  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙŠÙ…ÙƒÙ† Ø§Ø³ØªØ®Ø¯Ø§Ù…Ù‡Ø§ Ø¹Ù„Ù‰ </font></font><a class="https" href="https://doc.coreboot.org/mainboard/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¨Ø¹Ø¶ Ù„ÙˆØ­Ø§Øª</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ùˆ </font></font><a class="https" href="https://doc.coreboot.org/mainboard/index.html#emulation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ø®ØªØ¨Ø§Ø±Ù‡Ø§ ÙÙŠ Ø¥Ø·Ø§Ø± Ù…Ø­Ø§ÙƒØ§Ø©</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - ( </font></font><a class="interwiki" href="https://en.wikipedia.org/wiki/Coreboot" title="ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆÙŠÙƒÙŠØ¨ÙŠØ¯ÙŠØ§</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></p></td>
+</tr>
+<tr>  <td><span class="anchor" id="line-77"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> PMON2000 </font></font></p></td>
+  <td><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆØ¬Ø¯Øª ÙÙŠ </font></font><a href="https://wiki.debian.org/DebianYeeloong"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lemote Yeeloong</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ÙˆØ§Ù„Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„Ù…Ø¶Ù…Ù†Ø©</font></font></p></td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-78"></span><span class="anchor" id="line-79"></span><p class="line867">
+</p><h2 id="Updating_firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></h2>
+<span class="anchor" id="line-80"></span><span class="anchor" id="line-81"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙŠÙ…ÙƒÙ† </font></font><a href="https://wiki.debian.org/Firmware/Updates"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ­Ø¯ÙŠØ«</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© </font><font style="vertical-align: inherit;">Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø·Ø±Ù‚ Ù…Ø®ØªÙ„ÙØ©.</font></font><span class="anchor" id="line-82"></span><span class="anchor" id="line-83"></span></p><p class="line867"><span class="anchor" id="open"></span> <span class="anchor" id="line-84"></span>
+</p><h2 id="Open_firmware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§ÙØªØ­ Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ©</font></font></h2>
+<span class="anchor" id="line-85"></span><span class="anchor" id="line-86"></span><p class="line862"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‡Ù†Ø§Ùƒ Ø¹Ø¯Ø¯ Ù…Ù† Ø§Ù„Ù…Ø´Ø§Ø±ÙŠØ¹ Ø§Ù„ØªÙŠ ØªÙ†Ø´Ø¦ Ø£Ù†ÙˆØ§Ø¹Ù‹Ø§ Ù…Ø®ØªÙ„ÙØ© Ù…Ù† </font></font><a href="https://wiki.debian.org/Firmware/Open"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© Ø§Ù„Ù…ÙØªÙˆØ­Ø©</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ Ø¨Ù…Ø§ ÙÙŠ Ø°Ù„Ùƒ Ø§Ù„ØªÙ…Ù‡ÙŠØ¯ Ùˆ </font></font><a href="https://wiki.debian.org/WiFi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WiFi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ÙˆØ§Ù„ØµÙˆØª.</font></font><span class="anchor" id="line-87"></span><span class="anchor" id="line-88"></span></p><p class="line867"></p><hr><p class="line874"> <span class="anchor" id="line-89"></span><span class="anchor" id="line-90"></span></p><p class="line867"><span class="anchor" id="line-91"></span></p><p class="line867"><span class="anchor" id="line-92"></span></p><p class="line867"><span class="anchor" id="line-93"></span></p><p class="line867"><span class="anchor" id="line-94"></span></p><p class="line867"><a href="https://wiki.debian.org/CategoryPermalink"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CategoryPermalink</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> | </font></font><a href="https://wiki.debian.org/CategoryHardware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CategoryHardware</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> | </font></font><a href="https://wiki.debian.org/CategoryProprietarySoftware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„ÙØ¦Ø©Ø§Ù„Ø®Ø§ØµÙŠØ©Ø§Ù„Ø¨Ø±Ù…Ø¬ÙŠØ§Øª</font></font></a> <span class="anchor" id="line-95"></span><span class="anchor" id="bottom"></span></p></div><div id="pagebottom"></div>
+</div>
+
+
+<div id="footer">
+<p id="pageinfo" class="info" lang="ar" dir="rtl"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„Ø«Ø§Ø¨ØªØ© ( </font></font><a class="nbinfo" href="https://wiki.debian.org/Firmware?action=info" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¢Ø®Ø¯Ø± ØªØ¹Ø¯ÙŠÙ„ 2021-02-28 20:49:48</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></p>
+
+<ul id="credits">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¯ÙŠØ¨ÙŠØ§Ù† </font></font><a href="https://www.debian.org/legal/privacy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø³ÙŠØ§Ø³Ø© Ø§Ù„Ø®ØµÙˆØµÙŠØ©</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ ÙˆÙŠÙƒÙŠ </font></font><a href="https://wiki.debian.org/Teams/DebianWiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙØ±ÙŠÙ‚</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ </font></font><a href="https://bugs.debian.org/wiki.debian.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„Ø¨Ù‚</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ùˆ </font></font><a href="https://salsa.debian.org/debian/wiki.debian.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„ØªÙƒÙˆÙŠÙ†</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…Ø¯Ø¹ÙˆÙ… Ù…Ù† </font></font><a href="https://moinmo.in/" title="ÙŠØ³ØªØ®Ø¯Ù… Ù‡Ø°Ø§ Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ø¨Ø±Ù†Ø§Ù…Ø¬ MoinMoin Wiki."><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù…ÙˆÙŠÙ†Ù…ÙˆÙŠÙ†</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Ùˆ </font></font><a href="https://moinmo.in/Python" title="MoinMoin Ù…ÙƒØªÙˆØ¨ Ø¨Ù„ØºØ© Python."><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¨ÙŠØ«ÙˆÙ†</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ØŒ withhosting Ø§Ù„ØªÙŠ ØªÙ‚Ø¯Ù…Ù‡Ø§ </font></font><a href="https://www.man-da.de/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø´Ø¨ÙƒØ© Ø¯Ø§Ø±Ù…Ø´ØªØ§Øª Ù…Ù†Ø·Ù‚Ø© Ø§Ù„Ø¹Ø§ØµÙ…Ø©</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></li>
+</ul>
+
+
+</div><div id="goog-gt-tt" class="skiptranslate" dir="rtl"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google ØªØ±Ø¬Ù…Ø©"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Ø§Ù„Ù†Øµ Ø§Ù„Ø£ØµÙ„ÙŠ</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Ø§Ù„Ù…Ø³Ø§Ù‡Ù…Ø© Ø¨ØªØ±Ø¬Ù…Ø© Ø£ÙØ¶Ù„</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+
+
+
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/common.css
+
+@charset "utf-8";
+
+@import url("modernized-common.css");
+
+@import url("debwiki.css");
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/modernized-common.css
+
+@charset "utf-8";
+
+html { background-color: white; color: black; font-family: sans-serif; font-size: 1em; }
+
+body { margin: 0px; }
+
+a { color: rgb(0, 68, 179); }
+
+a:visited { color: rgb(255, 123, 179); }
+
+a.nonexistent:visited, a.nonexistent, a.badinterwiki:visited, a.badinterwiki { color: gray; }
+
+a.www::before { content: url("../img/moin-www.png"); margin: 0px 0.2em; }
+
+a.http::before { content: url("../img/moin-www.png"); margin: 0px 0.2em; }
+
+a.https::before { content: url("../img/moin-www.png"); margin: 0px 0.2em; }
+
+a.file::before { content: url("../img/moin-ftp.png"); margin: 0px 0.2em; }
+
+a.ftp::before { content: url("../img/moin-ftp.png"); margin: 0px 0.2em; }
+
+a.nntp::before { content: url("../img/moin-news.png"); margin: 0px 0.2em; }
+
+a.news::before { content: url("../img/moin-news.png"); margin: 0px 0.2em; }
+
+a.telnet::before, a.ssh::before { content: url("../img/moin-telnet.png"); margin: 0px 0.2em; }
+
+a.irc::before, a.ircs::before { content: url("../img/moin-telnet.png"); margin: 0px 0.2em; }
+
+a.mailto::before { content: url("../img/moin-email.png"); margin: 0px 0.2em; }
+
+a.attachment::before { content: url("../img/moin-attach.png"); margin: 0px 0.2em; }
+
+a.badinterwiki::before { content: url("../img/moin-inter.png"); margin: 0px 0.2em; }
+
+a.interwiki::before { content: url("../img/moin-inter.png"); margin: 0px 0.2em; }
+
+li p { margin: 0.25em 0px; }
+
+li.gap { margin-top: 0.5em; }
+
+dt { margin-top: 0.5em; font-weight: bold; }
+
+dd { margin-top: 0px; margin-bottom: 0px; }
+
+dd p { margin: 0.25em 0px; }
+
+a, img, img.drawing { border: 0px; }
+
+pre { border: 1pt solid rgb(174, 189, 204); background-color: rgb(243, 245, 247); padding: 5pt; font-family: courier, monospace; white-space: pre-wrap; overflow-wrap: break-word; }
+
+pre.comment { background-color: rgb(204, 204, 204); color: red; padding: 0px; margin: 0px; border: 0px; }
+
+pre.comment::before { content: url("../img/attention.png"); }
+
+.comment { color: rgb(85, 85, 85); background-color: rgb(221, 221, 255); }
+
+.red { background-color: rgb(255, 204, 204); }
+
+.green { background-color: rgb(204, 255, 204); }
+
+.blue { background-color: rgb(204, 204, 255); }
+
+.yellow { background-color: rgb(255, 242, 159); }
+
+.orange { background-color: rgb(255, 213, 155); }
+
+.solid { border: 2px solid rgb(0, 0, 0); padding: 2px; }
+
+.dashed { border: 2px dashed rgb(0, 0, 0); padding: 2px; }
+
+.dotted { border: 2px dotted rgb(0, 0, 0); padding: 2px; }
+
+.left { text-align: left; }
+
+.center { text-align: center; }
+
+.right { text-align: right; }
+
+.justify { text-align: justify; }
+
+table { margin: 0.5em 0px 0px 0.5em; border-collapse: collapse; }
+
+th, td { padding: 0.25em 0.5em; border: 1pt solid rgb(173, 185, 204); }
+
+td p { margin: 0px; padding: 0px; }
+
+div.table-of-contents { border: 1px solid rgb(187, 187, 187); color: black; background-color: rgb(238, 238, 238); font-size: 80%; text-align: left; margin: 0.5em 0px 0.5em 1em; padding: 0.5em 0.75em 0.5em 0.5em; max-width: 50%; display: inline-table; }
+
+div.table-of-contents ol { margin: 0px; padding: 0px 0px 0px 2em; }
+
+div.table-of-contents ul { margin: 0px; list-style: none; }
+
+div.table-of-contents li { margin: 0px; padding: 0px; }
+
+p.table-of-contents-heading { font-weight: bold; padding: 0px; margin: 0px 0px 0.5em; letter-spacing: 0.075em; }
+
+table.navigation { background: rgb(255, 255, 255); margin: 0px; }
+
+.footnotes div { width: 5em; border-top: 1pt solid gray; }
+
+.footnotes ol { padding: 0px 2em; margin: 0px 0px 1em; }
+
+.footnotes li { }
+
+.info { float: right; font-size: 0.7em; color: gray; }
+
+#pageinfo { margin-top: 2em; }
+
+.seperator { color: gray; }
+
+#pagebottom { clear: both; }
+
+hr { height: 1pt; background-color: rgb(156, 156, 156); border: 0px; }
+
+.hr1 { height: 2pt; }
+
+.hr2 { height: 3pt; }
+
+.hr3 { height: 4pt; }
+
+.hr4 { height: 5pt; }
+
+.hr5 { height: 6pt; }
+
+.hr6 { height: 7pt; }
+
+.u { text-decoration: underline; }
+
+.strike { text-decoration: line-through; }
+
+.warning { color: red; }
+
+.error { color: red; }
+
+strong.highlight { background-color: rgb(204, 224, 255); padding: 1pt; }
+
+.rcrss { float: right; margin: 0px 7px 0px 14px; height: 0px; position: relative; top: 9px; }
+
+[div="rtl"] .rcrss { float: left; }
+
+.recentchanges[dir="rtl"] .rcrss { float: left; }
+
+.recentchanges table { clear: both; border-collapse: collapse; border: 1px solid rgb(77, 125, 169); }
+
+.recentchanges td { vertical-align: top; border: none; background: rgb(230, 234, 240); }
+
+.recentchanges .rcdaybreak td { background: rgb(129, 187, 242); border: 1px solid rgb(77, 125, 169); }
+
+.rcdaybreak td a { font-size: 0.88em; }
+
+.rcicon1, .rcicon2 { text-align: center; }
+
+.rcpagelink { width: 33%; }
+
+.rctime { font-size: 0.88em; white-space: nowrap; }
+
+.rceditor { white-space: nowrap; font-size: 0.88em; }
+
+.rccomment { width: 50%; color: gray; font-size: 0.88em; }
+
+.userpref table, .userpref td { border: none; }
+
+div.codearea { margin: 0.5em 0px; padding: 0px; border: 1pt solid rgb(174, 189, 204); background-color: rgb(243, 245, 247); color: black; }
+
+div.codearea pre { margin: 0px; padding: 10pt; border: none; }
+
+a.codenumbers { margin: 0px 10pt; font-size: 0.85em; color: gray; }
+
+div.codearea pre span.LineNumber { color: gray; }
+
+div.codearea pre span.ID { color: rgb(0, 0, 0); }
+
+div.codearea pre span.Operator { color: rgb(0, 0, 192); }
+
+div.codearea pre span.Char { color: rgb(0, 64, 128); }
+
+div.codearea pre span.Comment { color: rgb(0, 128, 0); }
+
+div.codearea pre span.Number { color: rgb(0, 128, 192); }
+
+div.codearea pre span.String { color: rgb(0, 64, 128); }
+
+div.codearea pre span.SPChar { color: rgb(0, 0, 192); }
+
+div.codearea pre span.ResWord { color: rgb(160, 0, 0); }
+
+div.codearea pre span.ConsWord { color: rgb(0, 128, 128); font-weight: bold; }
+
+div.codearea pre span.Error { color: rgb(255, 128, 128); border: 1.5pt solid rgb(255, 0, 0); }
+
+div.codearea pre span.ResWord2 { color: rgb(0, 128, 255); font-weight: bold; }
+
+div.codearea pre span.Special { color: rgb(0, 0, 255); }
+
+div.codearea pre span.Preprc { color: rgb(128, 57, 153); }
+
+div.codearea pre span.DiffAdded { color: rgb(72, 118, 255); }
+
+div.codearea pre span.DiffRemoved { color: rgb(255, 0, 0); }
+
+div.codearea pre span.DiffChanged { color: rgb(255, 127, 80); }
+
+div.codearea pre span.DiffSeparator { color: rgb(34, 139, 34); font-weight: bold; }
+
+.advancedsearch { border: 1pt solid rgb(173, 185, 204); }
+
+.advancedsearch td { vertical-align: top; background-color: rgb(231, 231, 231); border: 0px; }
+
+.advancedsearch td.searchfor { font-weight: bold; }
+
+.advancedsearch input { border: 1px solid rgb(173, 185, 204); background-color: rgb(255, 255, 255); }
+
+.advancedsearch input[disabled] { background-color: rgb(238, 238, 238); }
+
+.advancedsearch td.submit { border-top: 1px solid rgb(173, 185, 204); background-color: rgb(255, 255, 255); text-align: right; }
+
+.advancedsearch optioni, .advancedsearch select { border: 1px solid rgb(173, 185, 204); background-color: rgb(255, 255, 255); }
+
+.searchresults dt { margin-top: 1em; font-weight: normal; }
+
+.searchresults dd, .searchresults p { font-size: 0.85em; }
+
+.searchresults .searchhitinfobar { color: rgb(0, 128, 0); margin-left: 15px; margin-top: 0px; }
+
+p.searchstats { font-size: 0.8em; text-align: right; width: 100%; background-color: rgb(230, 234, 240); border-top: 1px solid rgb(144, 136, 220); padding: 2px; }
+
+p.searchhint { background-color: rgb(230, 234, 240); border: 1px solid rgb(144, 136, 220); padding: 2px; }
+
+.searchpages { margin-left: auto; margin-right: auto; }
+
+.searchpages tr, .searchpages td { border: 0px; padding: 5px; margin: 0px; text-align: center; vertical-align: middle; color: rgb(185, 58, 88); font-weight: bold; font-size: 1.05em; }
+
+.searchpages td a, .searchpages td a:link { text-decoration: underline; }
+
+a.cal-emptyday { color: rgb(119, 119, 119); text-align: center; }
+
+a.cal-usedday { color: rgb(0, 0, 0); font-weight: bold; text-align: center; }
+
+td.cal-workday { background-color: rgb(221, 221, 255); text-align: center; }
+
+td.cal-weekend { background-color: rgb(255, 221, 221); text-align: center; }
+
+td.cal-today { background-color: rgb(204, 255, 204); border-style: solid; border-width: 2pt; text-align: center; }
+
+td.cal-invalidday { background-color: rgb(204, 204, 204); }
+
+a.cal-link { color: rgb(0, 0, 0); text-decoration: none; }
+
+th.cal-header { background-color: rgb(221, 187, 255); text-align: center; }
+
+table.tip { color: black; background-color: rgb(255, 136, 136); font-size: small; font-weight: normal; border-style: solid; border-width: 1px; }
+
+th.tip { background-color: rgb(255, 68, 68); font-weight: bold; text-align: center; }
+
+td.tip { text-align: left; }
+
+[dir="rtl"] td.tip { text-align: right; }
+
+#message .hint { font-style: italic; }
+
+#message .info { float: none; font-size: 1em; color: black; }
+
+#message .info::before { content: url("../img/icon-info.png"); margin: 0px 0.2em; }
+
+#message .warning::before { content: url("../img/alert.png"); margin: 0px 0.2em; }
+
+#message .error::before { content: url("../img/icon-error.png"); margin: 0px 0.2em; }
+
+#content div.caution, #content div.important, #content div.note, #content div.tip, #content div.warning { border: 1pt solid rgb(229, 229, 229); background-color: rgb(249, 249, 255); color: black; margin: 10pt 30pt; background-repeat: no-repeat; background-position: 8px 8px; min-height: 64px; padding-left: 64px; }
+
+#content div.caution p, #content div.important p, #content div.note p, #content div.tip p, #content div.warning p { margin-top: 8px; }
+
+#content div.tip { background-image: url("../img/admon-tip.png"); }
+
+#content div.note { background-image: url("../img/admon-note.png"); }
+
+#content div.important { background-image: url("../img/admon-important.png"); }
+
+#content div.caution { background-image: url("../img/admon-caution.png"); }
+
+#content div.warning { background-image: url("../img/admon-warning.png"); }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/img/moin-www.png
+
+‰PNG
+
+   IHDR         óÿa   bKGD ÿ ÿ ÿ ½§“   	pHYs     šœ   tIMEÕ,æŞ   5tEXtComment (c) 2004 Jakub Steiner
+
+Created with The GIMPÙ‹o  ìIDAT8Ë­“]h[e‡Ÿ÷œ÷œc“4i›æ£mÖĞ¢,¸u²ÈÄ«)¨0o”)İEe8o„¡ ·RÅû]ˆGAÄéL†7³0µ³–v+®ë\?³œ,Mr’s’œ×ÙÄíÖçúÿ{.şü~‚8şŞì)à-]Êı
+,åû¥XĞtíìÜÌÔŞ‹ûÁ÷¿œ4uíÇ‰±dâÈ4c©(Ë¢\o²¶i³¸²ÉÂe!ÄÉ¹™©«ÿ¼öîç¹`¸ç·W'â”ëMìd(=ıàØ¤QV¶9?¿r!½'‘ Ñhè§çŸÉŠ'2”ŠyG³D‡pZmò›ëHßCë6y.—¡ë«è…K×Ï Oho~øÕGÉxøhnCóéÈhCJLC°$‰h/Cñ±¾ ¹ì£¤‡¼ñÁÙi -	œ<œ¥R.rÇŞ‡Rà+@hßc·Ôàû‹Ë\˜_$b)ö¼
+ kN;–Nö³p£@f"¯şıl½Râ©É,B”RlïŞ¡Õl2‹ ĞZ^G³,-§Roa×<·KÍñğê6Bü£BˆE¹ºzË  R×5¿ÚhiÁÖ!iQhR4L:]ŸV©Ãd»ëzô†‚8Ã¾TŒBÓ(HCÓò·¶ŠÃ‡Æ“dF†¸½¹ÍüÚ&M/È§ß^Á]Ş~ù µZ¥k7¡7ğ;€¦ºİsK«[x¾ =’âØ¡»…w«ª®àvÙÇ¶mªÕ*ô§X]Ï| /ı|îüxî¥ÓB×ÍHĞ ÇÔùeq™å¼¢ÖpÙk¸ì9.¹ÂÇVÙçÚÚÎ¯s3SïÜ/R¥P<qñ²ÿïÃ“%øáJ•²gâuº¸^ËlTÚ\úc­,„8õĞMüúhfd6é3Ï$I†±,§Õf×®ğç­<[;ÅëB—ÇÚÂ=úÆÌNœÕ­À‹è²„PÊï¨N{]	í³¯?™>ÃÿÍßpl7÷1Ú•    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/img/moin-inter.png
+
+‰PNG
+
+   IHDR         óÿa   bKGD ÿ ÿ ÿ ½§“   	pHYs    Òİ~ü   tIMEÖ
+72RãÈ   tEXtComment Created with The GIMPïd%n  IDAT8Ë­’MHTA Ç³ëøx¾>Şƒ3¢²öËƒ‹Ş"‚dİCP."ˆå¥cx
+ÃCtÜeÛÎ]Ä*ºl
+!´«Ö¥<D×®ml~lºöö¹;RY_b‡úÃf˜ÿo~3üc„{a<9îïLŒÄG³‡¼®òpÀîëíW#¢P(t´µ‡rÙ…÷5Oİøƒ÷b]İ”Ë6BxRòdjâDş[ş €[#ñÑgtF#}½ıÂÙv¨V*xëê˜›{uVÓ´s;FB¡ĞÓÖ>šË.¼Şíyj`œr™âF‘Å·oNV*•¦XW7RJÇ!ÖÕMÀ¼;»ı@ñ%7ŸÅ4-´z¥¥Í‘(›¥MÇ[?·èŒDï¤Ò‰°®ë=†a03›A«×hl<õ£Öheõ;¶mïöİ7†ğüGxşâ)ùü×R­Ñ¶ã`7ÉÍgB|v.[¦…×ã%l¡µ5|L×õÆZ£ÓMg˜™Í`º®ßI¥WÜˆmÛ”Ë6ËËËMn£‡’è:>ŸÁ!€8@İNws½¸f4Ÿ¿@æeÆ²L‹RiƒP°…P°P(õ{³eZ ×÷ RÊOSÓ“—Ü¿Ì¶m„ ¥@¡PJ±G9,©tb}umEU«ÕÇêÚŠJ¥ëµWØ)å»©éÉk‡"¥œåäõ×x"Dc    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/img/admon-note.png
+
+‰PNG
+
+   IHDR           szzô   bKGD ÿ ÿ ÿ ½§“   	pHYs  ×  ×B(›x   tIMEÖ7 ?Ë  tIDATXÃí–Ëk\UÇ?çÜsg&7“LÒ¦Ïôı²5(X¤ÕRëNp%Xt¡Pl7¢¸r£[®¤"şJÁ*n*(>V"B(4¶4%éCÓ6“ÉÌ$“;÷ŞsÎÏÅLmHmÒMpáó;÷÷ùşÎ=<´‡¶ÌV¢b˜Kùõr«çØQ9ßù™2\×ÁŠe<yÉ?Š§+7Åiık7uaˆ –›ct”îS÷
+Wº€6ıtnü=*¤6²—\ºmÜª:‘:D`;J1¯„ÅÃRìÿBıW¨‰'?F|ƒhÃILá ¸›Hú;*|” ·›®şSèp= µËû¥Ú]~
+øù.ˆzÑDO+ßüiœşwpz‹$C…;ˆ6œ$È?nIÉÚñLÇ~Òò[„¹õè÷ĞùmX[>0'àöE¨ÌÁ°°ìØX!KÇiÔÎ’ùÅ­ßÓµí'´Y…$ƒˆ]€â«˜â¸¬õWÅUĞ¦_¡xlnÌ3à{u~ _ûá®¥’Äc˜èÅí§Ğf3â®#É àî’êİ¸Ï’&ã¦— 	ğ6Ø5÷Í¼€ÊEk6+Ğà'çÂ6¯‘Äcäº_¢kÇ7h³±WÛ`¿H{‚wUÄWWÅ»âªèdÛJ`8C\½Œ³çÂÂdÍõ²a%âH›WH›WÈ÷¾AiÓ»(]Dì5$‡¸*âjó`ßn·ÔWÁ×Ïà]…´Q'H¿£Vé¤Ø-½w	ĞÊ<NÍN~DÖ¦Ğ÷¥-o£wÉ.´ƒ.ÊĞWñ~\ïÊx[nûªx[ÅYK–BÃÌ¤)t­;H.¶pë|³¸v€P¿HŸó¹BG­}Ÿ\Ï	‚d—péHZG$C¤·|vq“x;…·e²¬mf$q˜¦
+çÖG¨ ÓÑC¾ØÇ–I'NL«lè™Ş†Le¸ã+…cÑº‚|é5Ä—qñYÄŞD|ÜÊÈŞÀe#øl±Ø¬F–Ì’Æ–´©°Ö¹N„:ßKØ]¢˜Ï¡µB+…Ö µ"š	‚üŞÀ&C CF|üfÏÎ!ÄOcgÄ§cØæ9\2Œw7q¶‚O¤MKjYáü*0Û1aáêˆ¼R-Øb¢İ×êoõ)Œ¾Eí*ÌLë=à1¢Ÿ×Ç¼
+aĞZÁÓX«±YDj{ğlB]„ù"¹(  ‹ ó ö»Zâ,URFç¶i­ÍbV‡ÍãåÙñ'uttŸ•Î_Eçr„æ3‚E µå=™Gå÷á<{ŒÚMò× Ú¸fç1üô—à;Q
+”Z:‹ÿcâ&PA‰4¶[ç·asÖ•DšÄõoYö+;êx™fÃGsTƒ’®^‘šAIL·o HbPd˜°oeÍ	Zš ”%ì9¾Bu“%i. Kà×¯^ E«j¯ƒ ˆ€àÎRí~n‚öİ=L±jÃ‚Eú§zñ>Á‹p€SK¨Ë(`©öC{0ö7ä-G¼›ç¥    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/debwiki.css
+
+@charset "utf-8";
+
+@import url("debian.css");
+
+body { font-size: 100%; }
+
+#breadcrumbs { text-transform: none; }
+
+#wikisection p.section { left: 0px; }
+
+#wikisection { position: absolute; top: 0px; }
+
+div#username { font-size: 0.75em; margin-left: 5em; color: rgb(210, 211, 215); }
+
+.sitetools { text-align: left; margin: 0px 10px 0px 0px; padding: 2px 10px 2px 5px; position: absolute; top: 0px; right: 0px; border-right: 1px solid white; border-left: 1px solid rgb(210, 211, 215); line-height: 1em; }
+
+#searchform { float: left; font-size: 0.75em; line-height: 2; }
+
+ul#pagelocation { display: inline; padding: 0px 1em 0px 0px; }
+
+#sitetools form { margin: 0px; padding: 0px; }
+
+#sitetools input { margin: 0px 0px 0px 0.25em; padding-left: 4px; padding-right: 4px; }
+
+#sitetools select { margin-left: 0.5em; }
+
+#sitetools form p { display: inline; line-height: 1em; margin: 0px; padding: 0px; }
+
+.sitetools a { margin: 5px 0.5em 2px 0px; padding: 0px; }
+
+.sitetools { margin: 0px; padding: 2px 10px 2px 5px; border-left: 1px solid white; border-right: 1px solid rgb(210, 211, 215); display: block; float: left; }
+
+#leftcol { float: right; margin: 2em 0px 0px 1em; width: 16em; clear: both; }
+
+#leftcol a { display: block; }
+
+#leftcol #username { margin: 0px 0px 1em; display: block; }
+
+#userhome { font-weight: bold; margin-bottom: 1em; }
+
+#navibar, .editbar { list-style: none; margin: 0px; padding: 0px; }
+
+#leftcol ul.editbar { margin-top: 1em; }
+
+form select { }
+
+#leftcol .editbar form select { width: 100%; }
+
+.editbar { padding: 0px; font-size: 0.75em; line-height: 2; position: absolute; right: 10px; }
+
+#leftcol li { display: block; margin: 0px; padding: 0px; list-style: none; }
+
+#content { margin-top: 1.5em; }
+
+.info { position: relative; margin: 0px 0px 0.5em; float: none; }
+
+#leftcol .info a { display: inline; }
+
+#leftcol .info strong { margin: 0px; padding: 0px; }
+
+hr { background-color: rgb(210, 211, 215); height: 1px; }
+
+pre, div.codearea { padding: 1em; margin: 2em 1.5em; background-color: rgb(245, 246, 247); border: 1px solid rgb(210, 211, 215); font-family: monospace; font-size: 100%; line-height: 2em; }
+
+div.codearea pre { border: none; padding: 0px; margin: 0px; }
+
+div.table-of-contents { font-size: 0.75em; line-height: 2em; list-style: none; background-image: url("../img/greydot.png"); background-position: left bottom; background-repeat: repeat-x; background-color: transparent; padding: 0px; margin: 0px; border: 0px; max-width: 50em; display: block; }
+
+p.table-of-contents-heading { font-weight: bold; padding: 0px; margin: 1.5em 0px 0px; font-size: 125%; letter-spacing: normal; }
+
+div.table-of-contents ol { list-style-position: inside; padding: 0px; margin: 0px; }
+
+div.table-of-contents ol ol { list-style-position: inside; padding-left: 2em; margin: 0px; }
+
+div.table-of-contents li { background-image: url("../img/greydot.png"); background-position: left top; background-repeat: repeat-x; padding: 0px; margin: 0px; }
+
+div.table-of-contents a:hover { background-color: rgb(240, 240, 244); }
+
+div.table-of-contents a { text-decoration: none; }
+
+.portal h1 { margin-top: 0px; line-height: 1em; }
+
+.portal h1::after { content: "Portal"; font-family: monospace; font-weight: normal; font-size: 0.62em; text-transform: uppercase; letter-spacing: 0.08em; background-color: rgb(199, 0, 54); line-height: 16px; color: white; padding: 0px 5px; margin: 1em 0px 3em; display: block; }
+
+h1#locationline { }
+
+h1#locationline a { color: black; }
+
+span.u { font-style: normal; font-weight: normal; text-decoration: underline; }
+
+p.searchhint { padding: 1em; border: 1px solid rgb(204, 204, 163); margin: 1em 0px; background-color: rgb(255, 255, 203); font-size: 0.75em; line-height: 2; }
+
+p.searchstats { font-size: 0.75em; background-color: rgb(245, 246, 247); margin: 0px; border-top: 1px solid rgb(210, 211, 215); text-transform: lowercase; line-height: 2; padding: 0px; }
+
+div.codearea { margin: 2em 1.5em; font-family: monospace; }
+
+a.codenumbers { font-size: 100%; }
+
+p#pageinfo { color: gray; font-size: 1em; margin: 1em 0px 0px; }
+
+#footer { margin-top: 2em; margin-left: 52px; margin-right: 10px; clear: both; }
+
+#footer ul.editbar { font-size: 1em; border-bottom: 1px solid rgb(210, 211, 215); background-image: none; margin: 0px 0px 1.5em; }
+
+ul#credits { margin: 1em 0px 0px; padding: 0px; font-size: 1em; line-height: 2; }
+
+ul#credits li { list-style: none; display: inline; margin: 0px 1em 0px 0px; }
+
+#content div.caution, #content div.important, #content div.note, #content div.tip, #content div.warning { margin: 1em 0px; }
+
+#message { background-color: rgb(245, 246, 247); padding: 1em; margin: 1em 0px; border: 1px solid rgb(210, 211, 215); font-size: 0.75em; line-height: 2; }
+
+#message p { margin: 0px; padding: 0px; }
+
+table { margin: 0.75em 0px; }
+
+td { padding: 0px 1em 0px 0.5em; }
+
+#content div.debian { border: 1px solid rgb(199, 0, 54); background-repeat: no-repeat; background-position: 10px 5px; margin: 2em 1.5em; padding: 0px 1.5em 0px 50px; font-size: 0.75em; }
+
+#content div.debian p { margin: 1.5em 0px; }
+
+#editor #editor-textarea { display: block; margin: 1em 0px; }
+
+p img.attachment { padding-right: 1.5em; }
+
+table p img.attachment { display: inline; float: none; padding: 0px; }
+
+p img { display: inline; }
+
+table.diff { font-family: monospace; font-size: 1em; }
+
+div#header ul li { display: inline; margin-right: 1em; }
+
+ul#navibar li.wikilink { margin: 0px; }
+
+ul#navibar li.current { display: none; }
+
+li.wikilink { margin: 0px; padding: 0px; }
+
+ul#navibar li.userlink { margin: 0px; padding: 0px; }
+
+#pagetrail { margin: 0px; display: inline; text-transform: lowercase; line-height: 2; background-color: rgb(245, 246, 247); min-height: 20px; }
+
+#searchform { position: absolute; right: 10px; top: 0px; }
+
+div#content { margin: 0px 10px 0px 52px; }
+
+div#header { margin: 0px; }
+
+#navbar { background-color: transparent; list-style: none; display: block; border-bottom: 1px solid rgb(199, 0, 54); text-indent: 0px; padding: 0px; margin-top: 0px; margin-bottom: 0px; }
+
+#navbar ul { margin: 0px; padding: 0px; clear: both; overflow: hidden; min-height: 45px; }
+
+#navbar li { list-style: none; float: left; padding: 0px; margin: 0px; }
+
+#navbar a:link, #navbar a:visited { padding: 1.75em 1em 0.25em; border-left: 1px solid transparent; border-right: 1px solid transparent; display: block; text-decoration: none; }
+
+#navbar a:visited { color: rgb(84, 99, 140); }
+
+#navbar a:hover, #navbar a:visited:hover { background-color: rgb(239, 239, 239); border-left: 1px solid rgb(210, 211, 215); border-right: 1px solid rgb(210, 211, 215); text-decoration: underline; }
+
+form.actionsmenu { float: right; vertical-align: text-top; }
+
+span.sep { margin-right: 0.25em; margin-left: 0.25em; }
+
+.diff { table-layout: fixed; }
+
+.diff-header { font-weight: bold; }
+
+.diff-title { background-color: rgb(192, 192, 192); }
+
+.diff-added { background-color: rgb(224, 255, 224); font-family: courier, monospace; vertical-align: top; white-space: pre-wrap; width: 50%; overflow-wrap: break-word; }
+
+.diff-removed { background-color: rgb(255, 255, 224); font-family: courier, monospace; vertical-align: top; white-space: pre-wrap; width: 50%; overflow-wrap: break-word; }
+
+.diff-added span { background-color: rgb(128, 255, 128); }
+
+.diff-removed span { background-color: rgb(255, 255, 128); }
+
+td.diff-info { vertical-align: top; }
+
+div.diff-info { white-space: nowrap; }
+
+div.diff-info-rev-comment span.diff-info-value { white-space: normal; }
+
+div.diff-info-header { background-color: rgb(232, 232, 232); margin: -0.25em -0.5em 0.25em; padding: 0.25em 0.5em; text-align: center; width: 100%; }
+
+td.diff-same { border: 0px none; text-align: center; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/debian.css
+
+@charset "utf-8";
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+body { line-height: 1; color: black; background: white; }
+
+ol, ul { list-style: none; }
+
+table { border-collapse: separate; border-spacing: 0px; }
+
+blockquote, q { quotes: "" ""; }
+
+html { background-color: transparent; }
+
+:focus { outline: 0px; }
+
+caption, th, td { text-align: left; font-weight: normal; }
+
+blockquote::before, blockquote::after, q::before, q::after { content: ""; }
+
+body { margin: 0px; font: 100% / 1.5 sans-serif; color: rgb(34, 34, 34); background-color: white; background-image: url("Pics/gradient.png"); background-position: 0px 0px; background-repeat: repeat-x; }
+
+#content { margin: 0px 10px 0px 52px; }
+
+#inner { position: relative; }
+
+#maincol { margin: 0px 15em 1.5em 0px; }
+
+#header { margin: 0px; padding: 0px 10px 0px 52px; }
+
+#header a:link, #header a:visited, #second-nav a:link, #second-nav a:visited { text-decoration: none; }
+
+#header a:hover, #second-nav a:hover { text-decoration: underline; }
+
+#breadcrumbs { margin: 0px; font-size: 0.75em; text-transform: lowercase; line-height: 2; background-color: rgb(245, 246, 247); border-bottom: 1px solid rgb(210, 211, 215); min-height: 20px; }
+
+#breadcrumbs::before { content: "/"; margin-left: 0.5em; margin-right: 0.5em; }
+
+p.section { margin: 0px; padding: 0px 5px; font-family: monospace; line-height: 16px; color: white; text-transform: uppercase; letter-spacing: 0.08em; position: absolute; top: 0px; left: 52px; background-color: rgb(199, 0, 54); }
+
+p.section a { color: white; text-decoration: none; }
+
+p.section a:hover { color: white; text-decoration: underline; }
+
+#navbar { background-color: transparent; list-style: none; display: block; border-bottom: 1px solid rgb(199, 0, 54); text-indent: 0px; padding: 0px; margin-top: 0px; margin-bottom: 0px; }
+
+#navbar ul { margin: 0px; padding: 0px; clear: both; overflow: hidden; min-height: 45px; }
+
+#navbar li { list-style: none; float: left; padding: 0px; margin: 0px; }
+
+#navbar a:link, #navbar a:visited { padding: 1.75em 0.5em 0.25em; border-left: 1px solid transparent; border-right: 1px solid transparent; display: block; text-decoration: none; }
+
+#navbar a:visited { color: rgb(84, 99, 140); }
+
+#navbar a:hover, #navbar a:visited:hover { background-color: rgb(245, 246, 247); border-left: 1px solid rgb(210, 211, 215); border-right: 1px solid rgb(210, 211, 215); text-decoration: underline; }
+
+ul.subnav { list-style: none; margin-left: 0px; padding-left: 0px; margin-top: 0px; }
+
+ul.subnav li { display: inline; margin-right: 1em; }
+
+#searchbox { text-align: left; line-height: 1; margin: 0px 10px 0px 0.5em; padding: 1px 0px; position: absolute; top: 0px; right: 0px; font-size: 0.75em; }
+
+#searchbox p { margin: 0px; padding: 0px; }
+
+#upperheader { margin: 0px; padding: 0px; }
+
+#logo { position: absolute; top: 0px; left: 0px; padding: 0px; background-color: transparent; border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: transparent; border-bottom-color: transparent; border-left-color: transparent; border-image: initial; border-top-style: initial; border-top-color: initial; width: 50px; height: 5.07em; min-height: 65px; }
+
+#logo a { display: block; position: relative; padding: 0px; height: 100%; min-height: 65px; }
+
+#logo img { margin-top: 5px; position: absolute; bottom: 0.3em; overflow: auto; }
+
+#logo:hover { border-width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(210, 211, 215); border-bottom-color: rgb(210, 211, 215); border-left-color: rgb(210, 211, 215); border-image: initial; border-top-style: initial; border-top-color: initial; background-color: rgb(245, 246, 247); }
+
+a:link { color: rgb(0, 53, 199); text-decoration: underline; }
+
+a:visited { color: rgb(84, 99, 140); }
+
+a:link:hover { text-decoration: none; color: rgb(0, 32, 122); }
+
+a:visited:hover { text-decoration: none; }
+
+a:active { color: rgb(194, 195, 199); }
+
+a img { border: 0px; }
+
+a.rss_logo { font-size: 0.75em; float: right; width: 35px; line-height: 10px; color: rgb(255, 255, 255); background-color: rgb(255, 102, 0); font-weight: bold; font-family: sans-serif; text-align: center; text-decoration: none; padding: 0.25em; margin-left: 0.25em; border: 1px solid rgb(255, 102, 0); }
+
+a.rss_logo:hover { background-color: white; border: 1px solid rgb(255, 102, 0); color: rgb(255, 102, 0); }
+
+a.rss_logo.generic { background-color: rgb(255, 136, 0); }
+
+a.rss_logo.generic:hover { background-color: rgb(238, 119, 0); }
+
+#second-nav { width: 16em; font-size: 0.75em; line-height: 1.5; float: right; top: 0px; right: 0px; margin: 3em 0px 0px; padding: 0px 0px 0px 1em; border-left: 1px solid rgb(210, 211, 215); }
+
+#second-nav ul { padding: 0px; margin: 0px; list-style: none; }
+
+#second-nav ul ul { margin-left: 1em; }
+
+#second-nav li { font-weight: normal; margin: 0px; padding: 0px; }
+
+#second-nav p { line-height: 2; font-weight: bold; margin: 0px; }
+
+#second-nav h2 { margin: 0px; }
+
+p { margin: 1.5em 0px; }
+
+strong { font-weight: bold; }
+
+em { font-style: italic; color: rgb(68, 68, 68); }
+
+small { font-size: 0.75em; }
+
+sup { font-size: 0.75em; vertical-align: top; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 600; color: black; }
+
+h1 { font-weight: normal; font-size: 1.8em; line-height: 0.83333; margin: 0.83333em 0px; }
+
+h2 { font-size: 1.4em; font-weight: normal; line-height: 1.07143; margin: 1.07143em 0px; }
+
+h3 { font-size: 1.125em; line-height: 1.333em; margin: 1.333em 0px 0px; }
+
+h4 { font-weight: normal; font-style: italic; margin: 1.5em 0px; color: rgb(68, 68, 68); }
+
+h5 { font-style: italic; font-size: 0.75em; margin: 2em 0px; }
+
+ol, ul { padding-left: 1.5em; margin: 1.5em 0px; }
+
+ol > ol, ul > ul, li > ol, li > ul { margin: 0px; }
+
+ol { list-style-type: decimal; }
+
+ul { list-style-type: disc; }
+
+th { font-weight: bold; margin: 1.5em 0px; }
+
+hr { border: none; background-color: rgb(187, 187, 187); height: 1px; margin: 1.4375em 0px 1.5em; }
+
+pre { margin: 1.5em 0px; overflow: auto; font-family: monospace; white-space: pre; color: black; }
+
+tt, code { font-family: monospace; white-space: pre; color: black; }
+
+dt { margin: 1.5em 0px 0px; font-weight: bold; }
+
+dd { margin: 0px 0px 0px 1.5em; }
+
+blockquote { font-size: 0.75em; margin: 2em; line-height: 2; }
+
+cite { font-style: italic; color: rgb(68, 68, 68); }
+
+acronym, abbr { text-transform: uppercase; font-size: 0.9em; }
+
+.toc { font-size: 0.75em; list-style: none; background-image: url("Pics/greydot.png"); background-position: left bottom; background-repeat: repeat-x; line-height: 1.833; padding: 0px; max-width: 62%; margin: 2em 0px; }
+
+.toc li { background-image: url("Pics/greydot.png"); background-position: left top; background-repeat: repeat-x; padding: 0.0833em 0px; }
+
+.toc a { display: block; text-decoration: none; }
+
+.toc a:hover { display: block; background-color: rgb(240, 240, 244); text-decoration: underline; }
+
+.toc dt { margin: 0px; background-image: url("Pics/greydot.png"); background-position: left top; background-repeat: repeat-x; padding: 0.0833em 0px; }
+
+.card { clear: both; margin: 1.5em 0px; background-position: 0px -50px; background-repeat: repeat-x; padding: 0px; }
+
+.card ul { }
+
+.card ul li { list-style: none; }
+
+.card h2 { }
+
+.lefthalf { float: left; }
+
+.righthalf { margin-left: 50%; }
+
+.lefthalf ul { margin-top: 0px; }
+
+#footer { font-size: 0.75em; border-width: 1px 0px; border-top-style: solid; border-bottom-style: solid; border-top-color: rgb(223, 223, 224); border-bottom-color: rgb(223, 223, 224); border-image: initial; padding: 1em; background-color: rgb(245, 246, 247); margin: 0px 10px 0px 52px; line-height: 1.5em; border-left-style: initial; border-left-color: initial; border-right-style: initial; border-right-color: initial; }
+
+#content #footer { margin-left: 0px; }
+
+#footer p { margin: 1em 0px; }
+
+#footer hr { border-top: 1px solid rgb(210, 211, 215); border-bottom: 1px solid white; height: 0px; }
+
+#footer .editbar li { display: inline; margin-right: 2em; }
+
+#footer .info { }
+
+#fineprint { margin-bottom: 1em; }
+
+#footermap { list-style: none; margin: 0px; padding: 0px; width: 100%; overflow: hidden; border: 0px; }
+
+ul#footermap-cola a, ul#footermap-colb a, ul#footermap-colc a, ul#footermap-cold a, ul#footermap-cole a { padding-left: 0px; }
+
+ul#footermap-cola, ul#footermap-colb, ul#footermap-colc, ul#footermap-cold, ul#footermap-cole { float: left; width: 19%; min-width: 11em; height: 12em; margin: 0px 1% 0px 0px; padding: 2em 0px 0px; list-style: none; }
+
+ul#footermap-cole { width: 18.9%; margin-right: 0px; }
+
+#footermap-wrap { padding: 2em; border-top: 1px solid white; }
+
+#footermap a { margin: 0px; }
+
+#footermap ul { list-style: none; padding: 0px; }
+
+#footermap li { text-indent: 0px; background-color: transparent; font-weight: bold; }
+
+#footermap li ul { margin: 0px; padding: 0px; }
+
+#footermap li li { margin: 0px; text-indent: 0px; padding: 0px; font-weight: normal; border: 0px; background-image: none; background-color: transparent; }
+
+#serverselect { }
+
+#serverselect input, #serverselect option, #serverselect select { }
+
+#serverselect ul { display: inline; margin-left: 2em; }
+
+#serverselect li { list-style: none; display: inline; padding: 0px 1em; margin: 0px; }
+
+#serverselect form p { margin: 0px; padding: 0px; line-height: 1; }
+
+.lcol50 { float: left; width: 49%; font-size: 0.75em; margin: 0px; padding: 0px 0.5em 0px 0px; }
+
+.lcol50 h2 { margin-top: 0px; }
+
+.rcol50 { margin: 0px 0px 0px 51%; padding: 0px; font-size: 0.75em; }
+
+form#pageLang { display: inline; }
+
+input:focus { background-color: rgb(255, 255, 203); }
+
+.hidecss { display: none; }
+
+.clear { clear: both; }
+
+#clear { clear: both; border: 0px; height: 1px; display: block; }
+
+.quicklist::before { content: "Quick Links: "; font-weight: bold; }
+
+.quicklist { list-style: none; font-size: 0.75em; margin: 2em 0px; padding: 0px; text-indent: 0px; line-height: 2em; }
+
+.quicklist li { display: inline; }
+
+.item p { margin: 0px; }
+
+.item h2, .item p, .item ul { margin-right: 10px; }
+
+.item h2, .item h3, .item h4, .item h5 { margin-top: 0px; }
+
+.line { padding: 0px; width: auto; overflow: hidden; }
+
+div.downloads { border-top: 0.17em solid rgb(51, 153, 0); margin: 1.33em 0px 0px; }
+
+.downloads ul.downlist { margin: 0px; }
+
+div.downloads .col50 { border-top: 0.15em solid rgb(51, 153, 0); }
+
+ul.downlist { padding-left: 30px; text-indent: 0px; background: url("Pics/emblem-downloads.png") 0px 0.15em no-repeat; }
+
+ul.quicklist.downlist { border-top: 0.15em solid rgb(51, 153, 0); padding-top: 0.25em; margin-top: 1.6em; }
+
+ul.downlist li { display: inline; }
+
+ul.downlist li::after { content: ", "; }
+
+ul.downlist li:last-child::after { content: ""; }
+
+div.tip, div.important, div.warning, div.note { padding: 0px 2em 0px 4em; margin: 1.85em 0px; background-repeat: no-repeat; background-position: 0.5em 1em; font-size: 0.75em; line-height: 2em; background-color: rgb(255, 255, 203); border: 0.15em solid rgb(204, 204, 163); }
+
+div.tip p, div.important p, div.warning p, div.note p { margin: 1em 0px; }
+
+div.tip { background-image: url("Pics/admon-tip.png"); }
+
+div.important { background-image: url("Pics/admon-important.png"); }
+
+div.warning { background-image: url("Pics/admon-warning.png"); }
+
+div.note { background-image: url("Pics/admon-note.png"); }
+
+.col50, .cardleft, .cardright { width: 47.5%; float: left; padding-bottom: 1.5em; }
+
+.lastcol, .cardright { margin: auto auto auto 5%; width: 47.5%; float: left; padding-right: 0px; }
+
+.lastcol h2, .lastcol p, .lastcol ul { margin-right: 0px; }
+
+.cardleft h2 { margin-right: 1em; }
+
+.cardright div { margin-left: 1.5em; }
+
+.cardright h2 { margin-left: 1em; }
+
+.votemenu a { display: block; }
+
+table.vote td, table.vote th { padding-right: 1.5em; }
+
+#maincol.with-toolbox { margin-right: 14em; }
+
+div.tabular table, table.tabular, table.vendors { border-bottom: 0.15em solid rgb(102, 102, 102); border-top: 0.15em solid rgb(102, 102, 102); width: auto; font-size: 0.75em; line-height: 2em; margin-bottom: 4em; margin-top: -0.169em; }
+
+table td { padding-right: 1.5em; }
+
+div.tabular table tr, table.tabular tr, table.vendors tr { width: 100%; }
+
+table th { padding-right: 1.5em; }
+
+div.tabular table td, table.tabular td, table.vendors td { background-image: url("Pics/greydot.png"); background-position: left top; background-repeat: repeat-x; }
+
+#pageLang p, #pageLang form { display: inline; }
+
+.inline a { float: left; margin-right: 1em; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/Pics/gradient.png
+
+‰PNG
+
+   IHDR      C   Òçø¹   sRGB ®Îé   	pHYs  ÿ  ÿôŠ²‰   tIME×/'æäp   tEXtComment Kalle Soderman¢şj   bKGD ÿ ÿ ÿ ½§“   UIDATÓ]ÁÀ0Ã$ï¿_¯ß.BpIÓX‡m¸î'†ˆA³ÇXD›‹Ñ
+$ÊfÌ.ûöéÎuÇ$èd³X{N?sÓŞ:ôê^Ù~~ü1ˆM}»^V}‚¸J€    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/img/greydot.png
+
+‰PNG
+
+   IHDR         ô"Š   sRGB ®Îé   bKGD ÿ ÿ ÿ ½§“   	pHYs     šœ   tIMEØş¿ôV   'tEXtComment Architecture Research Unit 2007¸>Õ   IDAT×c˜;ÙÿË×î3  µj¼,äõ    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/screen.css
+
+@charset "utf-8";
+
+#splash { margin-top: 0px; margin-bottom: 1em; text-align: center; overflow: hidden; height: 150px; }
+
+#splash h1 { background-image: url("Pics/debian-61_glossy-large.png"); background-position: center top; padding-top: 190px; overflow: hidden; text-align: center; background-repeat: no-repeat; display: block; margin: 0px; height: 0px; }
+
+#maincol { background-image: url("Pics/cropped-swirls.png"); background-position: center top; background-repeat: repeat-x; }
+
+#announce { text-align: center; float: left; width: 41%; min-width: 260px; margin-bottom: 1.5em; }
+
+#intro { padding-top: 0px; }
+
+#intro p { margin-top: 0em; padding: 0px; }
+
+#hometoc { list-style: none; margin: 0px 0px 2em; padding: 0px; width: 100%; font-size: 0.75em; overflow: hidden; line-height: 1.5em; border: 0px; }
+
+#hometoc a { text-decoration: none; }
+
+#hometoc a:hover { text-decoration: underline; }
+
+ul#hometoc-cola a, ul#hometoc-colb a, ul#hometoc-colc a, ul#hometoc-cold a, ul#hometoc-cole a { padding-left: 5px; }
+
+ul#hometoc-cola, ul#hometoc-colb, ul#hometoc-colc, ul#hometoc-cold, ul#hometoc-cole { float: left; width: 19.2%; min-width: 11em; height: 14em; margin: 0px 1% 0px 0px; padding: 0px; background-image: url("Pics/gradient.png"); background-position: 0px -40px; background-repeat: repeat-x; border-top: 1px solid rgb(198, 200, 224); list-style: none; }
+
+ul#hometoc-cole { width: 18.9%; margin-right: 0px; }
+
+#hometoc-wrap { padding: 1em; border-top: 1px solid white; }
+
+#hometoc a { margin: 0px; }
+
+#hometoc ul { list-style: none; padding: 1em 0px 0px; }
+
+#hometoc ul ul { padding: 0px; }
+
+#hometoc li { text-indent: 0px; background-color: transparent; font-weight: bold; }
+
+#hometoc li ul { margin: 0px; }
+
+#hometoc li li { margin: 0px; text-indent: 0px; padding: 0px; font-weight: normal; border: 0px; background-image: none; background-color: transparent; }
+
+.infobar { margin: 0px 0px 2em; padding: 1em 5px; line-height: 1em; font-size: 0.75em; border: 1px solid rgb(210, 211, 215); background-image: url("Pics/gradient.png"); background-position: 0px -35px; background-repeat: repeat-x; clear: both; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/print.css
+
+@charset "utf-8";
+
+html { font-family: Times, serif; font-size: 12pt; }
+
+body { margin: 1.5cm; }
+
+a, a:visited, a.nonexistent, a.badinterwiki { color: black; text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+.info a { color: gray; }
+
+pre { font-size: 10pt; }
+
+a.interwiki::before, a.badinterwiki::before { content: attr(title) ":"; }
+
+a.interwiki img, a.badinterwiki img { display: none; }
+
+.footnotes div { border-top: 1pt solid gray; }
+
+#header, #sidebar, #footer, #timings, #credits, #interwiki, #pagelocation { display: none; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debwiki/css/projection.css
+
+@charset "utf-8";
+
+@import url("screen.css");
+
+html { line-height: 1.8em; }
+
+body, b, em, a, span, div, p, td { font-size: 18pt; }
+
+h1 { font-size: 26pt; }
+
+h2 { font-size: 22pt; }
+
+h3 { font-size: 20pt; }
+
+h4 { font-size: 18pt; }
+
+h5 { font-size: 16pt; }
+
+h6 { font-size: 14pt; }
+
+tt, pre { font-size: 16pt; }
+
+sup, sub { font-size: 12pt; }
+
+table.navigation { float: right; margin: 2px; }
+
+.navigation td, .navigation a { font-size: 10pt; padding: 2px; }
+
+#interwiki, #pagelocation, #pageinfo { display: none; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://wiki.debian.org/htdocs/debian-wiki-1.0.css
+
+@charset "utf-8";
+
+html { }
+
+#pageinfo { }
+
+#content div.debian { border: 1pt solid rgb(255, 158, 194); background-color: rgb(255, 228, 241); color: black; margin: 10pt 30pt; background-repeat: no-repeat; background-position: 8px 8px; min-height: 64px; padding-left: 64px; }
+
+#content div.debian p { margin-top: 8px; }
+
+#content div.debian { background-image: url("//wiki.debian.org/Portal/IDB?action=AttachFile&do=get&target=official-doc.png"); }
+
+.closed-bug { text-decoration: line-through !important; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://translate.googleapis.com/translate_static/css/translateelement.css
+
+@charset "utf-8";
+
+.goog-te-banner-frame { left: 0px; top: 0px; height: 39px; width: 100%; z-index: 10000001; position: fixed; border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.goog-te-menu-frame { z-index: 10000002; position: fixed; border: none; box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.goog-te-ftab-frame { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102, 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, 213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-top: 1px; padding-bottom: 2px; cursor: pointer; zoom: 1; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: baseline; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-link:hover, .goog-logo-link:active { font-size: 12px; font-weight: bold; color: rgb(68, 68, 68); text-decoration: none; }
+
+.goog-te-banner .goog-logo-link, .goog-close-link { display: block; margin: 0px 10px; }
+
+.goog-te-banner .goog-logo-link { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; }
+
+.goog-te-banner { margin: 0px; background-color: rgb(228, 239, 251); overflow: hidden; }
+
+.goog-te-banner img { border: none; }
+
+.goog-te-banner-content { color: rgb(0, 0, 0); }
+
+.goog-te-banner-content img { vertical-align: middle; }
+
+.goog-te-banner-info { color: rgb(102, 102, 102); vertical-align: top; margin-top: 0px; font-size: 7pt; }
+
+.goog-te-banner-margin { width: 8px; }
+
+.goog-te-button { border-color: rgb(231, 231, 231); border-style: none solid solid none; border-width: 0px 1px 1px 0px; }
+
+.goog-te-button div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) rgb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1px; height: 20px; }
+
+.goog-te-button button { background: transparent; border: none; cursor: pointer; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; white-space: nowrap; }
+
+.goog-te-button button:active { background: none 0px 0px repeat scroll rgb(204, 204, 204); }
+
+.goog-te-ftab { margin: 0px; background-color: rgb(255, 255, 255); white-space: nowrap; }
+
+.goog-te-ftab-link { text-decoration: none; font-weight: bold; font-size: 10pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space: nowrap; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-ftab-link img { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-ftab-link span { text-decoration: underline; margin-left: 2px; margin-right: 2px; vertical-align: middle; }
+
+.goog-float-top .goog-te-ftab-link { padding: 2px; border-top-width: 0px; }
+
+.goog-float-bottom .goog-te-ftab-link { padding: 2px; border-bottom-width: 0px; }
+
+.goog-te-menu-value { text-decoration: none; color: rgb(0, 0, 204); white-space: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.goog-te-menu-value span { text-decoration: underline; }
+
+.goog-te-menu-value img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .goog-te-menu-value { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .goog-te-menu-value span { text-decoration: none; }
+
+.goog-te-menu { background-color: rgb(255, 255, 255); text-decoration: none; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-menu-item { padding: 3px; text-decoration: none; }
+
+.goog-te-menu-item, .goog-te-menu-item:link { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.goog-te-menu-item:visited { color: rgb(85, 26, 139); }
+
+.goog-te-menu-item:hover { background: rgb(195, 217, 255); }
+
+.goog-te-menu-item:active { color: rgb(0, 0, 204); }
+
+.goog-te-menu2 { background-color: rgb(255, 255, 255); text-decoration: none; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.goog-te-menu2-colpad { width: 16px; }
+
+.goog-te-menu2-separator { margin: 6px 0px; height: 1px; background-color: rgb(170, 170, 170); overflow: hidden; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div { padding: 4px; }
+
+.goog-te-menu2-item .indicator { display: none; }
+
+.goog-te-menu2-item-selected .indicator { }
+
+.goog-te-menu2-item-selected .text { padding-left: 4px; padding-right: 4px; }
+
+.goog-te-menu2-item, .goog-te-menu2-item-selected { text-decoration: none; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.goog-te-menu2-item:hover div { color: rgb(255, 255, 255); background: rgb(51, 102, 204); }
+
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .goog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover div, .goog-te-menu2-item-selected:active div { color: rgb(0, 0, 0); font-weight: bold; }
+
+.goog-te-balloon { background-color: rgb(255, 255, 255); overflow: hidden; padding: 8px; border: none; border-radius: 10px; }
+
+.goog-te-balloon-frame { background-color: rgb(255, 255, 255); border: 1px solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; border-radius: 8px; }
+
+.goog-te-balloon img { border: none; }
+
+.goog-te-balloon-text { margin-top: 6px; }
+
+.goog-te-balloon-zippy { margin-top: 6px; white-space: nowrap; }
+
+.goog-te-balloon-zippy * { vertical-align: middle; }
+
+.goog-te-balloon-zippy .minus { background-image: url("//www.google.com/images/zippy_minus_sm.gif"); }
+
+.goog-te-balloon-zippy .plus { background-image: url("//www.google.com/images/zippy_plus_sm.gif"); }
+
+.goog-te-balloon-zippy span { color: rgb(0, 0, 204); text-decoration: underline; cursor: pointer; margin: 0px 4px; }
+
+.goog-te-balloon-form { margin: 6px 0px 0px; }
+
+.goog-te-balloon-form form { margin: 0px; }
+
+.goog-te-balloon-form form textarea { margin-bottom: 4px; width: 100%; }
+
+.goog-te-balloon-footer { margin: 6px 0px 4px; }
+
+.goog-te-spinner-pos { z-index: 1000; position: fixed; transition-delay: 0.6s; left: -1000px; top: -1000px; }
+
+.goog-te-spinner-animation { display: flex; align-items: center; justify-content: center; width: 104px; height: 104px; border-radius: 50px; background: url("//www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50% 50% no-repeat rgb(255, 255, 255); transition: all 0.6s ease-in-out 0s; transform: scale(0.4); opacity: 0; }
+
+.goog-te-spinner-animation-show { transform: scale(0.5); opacity: 1; }
+
+.goog-te-spinner { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infinite normal none running goog-te-spinner-rotator; }
+
+@keyframes goog-te-spinner-rotator { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.goog-te-spinner-path { stroke-dasharray: 187; stroke-dashoffset: 0; stroke: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-in-out 0s infinite normal none running goog-te-spinner-dash; }
+
+@keyframes goog-te-spinner-dash { 
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goog-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table, #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; font-family: inherit; vertical-align: baseline; text-align: left; line-height: normal; }
+
+#goog-gt-tt ol, #goog-gt-tt ul { list-style: none; }
+
+#goog-gt-tt table { border-collapse: collapse; border-spacing: 0px; }
+
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td { text-align: left; font-weight: normal; }
+
+div#goog-gt-tt { padding: 10px 14px; }
+
+#goog-gt-tt { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; padding: 12px; position: absolute; z-index: 10000; }
+
+#goog-gt-tt .original-text, .gt-hl-layer { clear: both; font-size: 10pt; position: relative; text-align: justify; width: 100%; }
+
+#goog-gt-tt .title { color: rgb(153, 153, 153); font-family: arial, sans-serif; margin: 4px 0px; text-align: left; }
+
+#goog-gt-tt .close-button { display: none; }
+
+#goog-gt-tt .logo { float: left; margin: 0px; }
+
+#goog-gt-tt .activity-links { display: inline-block; }
+
+#goog-gt-tt .started-activity-container { display: none; width: 100%; }
+
+#goog-gt-tt .activity-root { margin-top: 20px; }
+
+#goog-gt-tt .left { float: left; }
+
+#goog-gt-tt .right { float: right; }
+
+#goog-gt-tt .bottom { min-height: 15px; position: relative; height: 1%; }
+
+#goog-gt-tt .status-message { background: rgb(41, 145, 13); border-radius: 4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rgb(30, 102, 9) 1px 1px 1px; }
+
+#goog-gt-tt .activity-link { color: rgb(17, 85, 204); cursor: pointer; font-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none; }
+
+#goog-gt-tt textarea { font-family: arial; resize: vertical; width: 100%; margin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: solid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px; }
+
+#goog-gt-tt textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+#goog-gt-tt .activity-cancel { margin-right: 10px; }
+
+#goog-gt-tt .translate-form { min-height: 25px; vertical-align: middle; padding-top: 8px; }
+
+#goog-gt-tt .translate-form .activity-form { margin-bottom: 0px; }
+
+#goog-gt-tt .translate-form .activity-form input { display: inline-block; min-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; color: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; outline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; margin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 245, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+#goog-gt-tt .translate-form .activity-form input:hover { border: 1px solid rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; background-color: rgb(248, 248, 248); background-image: -webkit-linear-gradient(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:active { border: 1px solid rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus { outline: none; border: 1px solid rgb(77, 144, 254); z-index: 4 !important; }
+
+#goog-gt-tt .translate-form .activity-form input.selected { background-color: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(238, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit { color: white; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, 135, 237)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt .translate-form .activity-form input.activity-submit:active { border-color: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover { box-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-form input:active, #goog-gt-tt .translate-form .activity-form input:hover, #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt-tt .translate-form .activity-form input.activity-submit:hover { border-color: rgb(48, 121, 237); }
+
+#goog-gt-tt .gray { color: rgb(153, 153, 153); font-family: arial, sans-serif; }
+
+#goog-gt-tt .alt-helper-text { color: rgb(153, 153, 153); font-size: 11px; font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+#goog-gt-tt .alt-error-text { color: rgb(136, 0, 0); display: none; font-size: 9pt; }
+
+.goog-text-highlight { background-color: rgb(201, 215, 241); box-shadow: rgb(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+#goog-gt-tt .alt-menu.goog-menu { background: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; min-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 2000; }
+
+#goog-gt-tt .alt-menu .goog-menuitem { cursor: pointer; padding: 2px 5px 5px; margin-right: 0px; border-style: none; }
+
+#goog-gt-tt .alt-menu div.goog-menuitem:hover { background: rgb(221, 221, 221); }
+
+#goog-gt-tt .alt-menu .goog-menuitem h1 { font-size: 100%; font-weight: bold; margin: 4px 0px; }
+
+#goog-gt-tt .alt-menu .goog-menuitem strong { color: rgb(52, 90, 173); }
+
+#goog-gt-tt .goog-submenu-arrow { text-align: right; position: absolute; right: 0px; left: auto; }
+
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow { text-align: left; position: absolute; left: 0px; right: auto; }
+
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight { background-color: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relative; }
+
+#goog-gt-tt .trans-target-highlight { color: rgb(34, 34, 34); }
+
+#goog-gt-tt .gt-hl-layer { color: white; position: absolute !important; }
+
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highlight { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: relative; }
+
+#goog-gt-tt span:focus { outline: none; }
+
+#goog-gt-tt .trans-edit { background-color: transparent; border: 1px solid rgb(77, 144, 254); border-radius: 0em; margin: -2px; padding: 1px; }
+
+#goog-gt-tt .gt-trans-highlight-l { border-left: 2px solid red; margin-left: -2px; }
+
+#goog-gt-tt .gt-trans-highlight-r { border-right: 2px solid red; margin-right: -2px; }
+
+#goog-gt-tt #alt-input { padding: 2px; }
+
+#goog-gt-tt #alt-input-text { font-size: 11px; padding: 2px 2px 3px; margin: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block; vertical-align: top; height: 21px; box-sizing: border-box; border-radius: 1px; }
+
+#goog-gt-tt #alt-input-text:hover { border-width: 1px; border-style: solid; border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); border-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+#goog-gt-tt #alt-input-text:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+#goog-gt-tt #alt-input-submit { font-size: 11px; padding: 2px 6px 3px; margin: 0px 0px 0px 2px; height: 21px; }
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gstatic.com/images/branding/product/2x/translate_24dp.png
+
+‰PNG
+
+   IHDR   0   0   Wù‡  şIDATxí˜Õs#I„{ŸñßYfŞCûLËÌh0Û;ÌÌÌŒf‹ÙÌ0$Ïs^åIÕV‡JVT\È‡ŠøÔ5è/«ò'hãßåñÿ€Gò×…ó5F'–¬zˆ%?Î±8Á¢o4¦òzCœ×¼·væ§#Û˜‹Ü5wó).Y¬—$‹'â¯&x¹bè‘mÌÅ¢†øÎK¬òê ¯ÏàÅÓM#Û˜‹Ì»¯€Ô?ÄßJ¿ÙÄ\Ha…|† Wxá‡¾¥#›˜]ùôı—¦FæB%®_k€…¨‘¹P‹«å3×g¿\"0²…¹H/.åõwÿAşºû°Ù{100†ñ‰)LMMazzšW“ÉÉI‰‰‰ÆÇÇMÆÆÆ&‡†Fÿ$0$æBŠêË«w_ G.¸á
+	
+Ocff†!$– VÔ¡z{ûÿ,0ˆ!jqyÅîK–íD{‡}ıÃBÊ€âÚ†‡‡Ç1äÂ*«–Ïß4‹ıÍ1x‡"¸s7Œ»÷Âğ‹õş–ò6Î*wŸä®¹ƒæ;ìv/FÇ&(®@A¹˜OœTŸ~€™»„Ãa%ÓwÂ(;ò Eşå:¯QW·^o@ty\;€b.bÈ%UHùûI²Á‘NwÇˆXÇC…FÂ('ôªB°F­m8]^!Š,L ÖFî<+Óp6fé=×u§cÈ]?›v÷_ä¬–5òÀçŠAì¥Dzyı êİ':Oy²î¢¨ˆzhÓÊË äÈyÖÈÇ`0Ä|iÔî¿2 eUp`)?<a8}yIrœñ…B!ôõõ1DvP’¯6pİMO7Ğ—Q«<©×¨©Ù›-^£`0^¥Ââj•5hÔG ¥Š R<S€îhŠ¼äğy—Y£@`.@AqOB!ÿOğÆ+4"+”T™ú31“—æfåxG,m€×¿¿†¿~QÜo*‘ÿ}
+~ ÕD©Á›åõx«¢Q\ç(*oÈ€R*ö6Í‰­¿ô@ö<¥ó›¯Ìı½Ê“”ò/
+^^1‚ ï!^Lé*–Ô ˆ”Š eµa‘'R^; _§o‡Í—ÑUçùJdV
+ËªL†ñFã¬R^røœ].¸İ>³F„Mj¶ì3QÓW›)N4(vxÅqëYïhgoEq¦;
+ÿ°õİy™ø»óÉ¿P3‹Šİƒhiµ¡Çæ‚Ï°°»Üâ$êÄIÔ!ĞÛ§’W°J«CLÅOBÉmqgbR:­<ùËª;ø¶v;r¿ªÄª]‡ùjdX³û8Ğ;b``€ƒ­ÀÒm]7‹İ7cpD„püOœÀÁ–(
+7?Ì(/y^°ùP;r¾ªFşwU¸ÑÖ	hêè™'Ğms ¿¿ƒƒƒÍ@Jfâ%µzò¤|÷ ª×@Î×+ñEõzØn|Q³|5Úrğ$å	OXCèx)=*ñò„5º‹«×»ñÉò5È/§ï”×!_È]¿ÁPH!,'ÁZ	bÈ…ULOZK^R=‹Cç\8w¥yßUørZ‹î;gâ¼Z1„~ )­/^”îèGiãQ£J0@ŞUb¨rÒ ###Ä †\¨åôÄuäÉ«•ãøã§•(ü®ûN^ÀÛ¬‘ñãÎƒ…zÓÄ}i]q+Ï%øÓW[pò\øÙèzK§QÎBÃö¡@)«!®#O¾ØèGk›ÄGìë­b ÀµÛö³N2€DÀ*¦/-ÅuäŸ­'ĞxMÍ6ó#6¿#Ü!Ş®¨g¢fÛ>y
+óxnexJWX_Ü*/9xÖ‰Ngò75¢o•ÕaçÑ32 Ià…•“9jAiR­'ÿŒ tç ZZípº|¬‘ås‘d’6€ä©ïŠY~wêùªT<7•©<[¶ğÌJ+O'øcı4š[°Ù=– òJ2È__[şøk'A{õ„•W¼|_W\Bk»‡W~¼¶ğ/ğÎçÇ~ÿÄ¢³°ğF¯ŸEñŠkà«P÷-~Íp8ÈçU@b>e•¼/İyréyüƒ%I,>’êhïp »Ç—ËŸ‚'ª da”T5?%„-ù²ªhk·¡»›Õá-G?ëCi†P à›o®üæ©% yrÑy”Vqçí¸uË	Ê{¼>øıŠU ²ğ$y]¾ÃÊP¾$içívÜV‡» ”ÏT#Ô¤À |Ê:ß-¿V,w¾µ­]]vPŞåöˆêøD €?% ¯ª /wäÂ§¬Ã•T^ASS'Z[»D€Øìì¾.ïNˆyÆ›BR8şı©óÛ
+ÃxÄøÿãßäñwßÜ‹üŒW¨®    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.debian.org/Pics/openlogo-50.png
+
+‰PNG
+
+   IHDR   2   =  ˜n
+ò   sRGB ®Îé   	pHYs  ~õ  ~õ$ÉeÚ   tIMEÛ´ÈOÇ   bKGD      ùC»  VIDAThŞíZ{OU¿vYví’L*¯XMGòÈfóLµÑƒ¡É£)&	[Ï”aFÔĞ‹”&2ÓQŞQC%&¯(ÏŠ2å‰hXµ¿>Ÿú\N·s{O1ÎÌgî¹ßó=÷{¾÷œ{Î÷|îqœ éK'ç[#_ÆO©,PÎVĞÃ|‚Y0Å‰&…Â1”ÖËùWÕÈ‡Ì‚ö~5ŞÕµ—ÔÓ&ìô‘/§ü2‘Mæ ï)ÿF8_CF~8pwÄE¥Tõ÷,Eca“ÈTtÖ«İ¦«ÛÜ“ÀJo…n ßTU(y.´n_ûÔ‘…Àà„ïÛDAº­²Lk%[xîGm}ûÂŒü¢b;ÂüOÙ¶
+Ó=íŞÀ&…!P¸9ÒWº/š~ø.ÚÌHØè]Zœ‚;[ŒÕu®E'Uå!sN]­ëBC1Ï¨ĞÎœËëÊo¡
+p§”˜êê[¹hô•Vhè›øÈãŒË÷´Àxà>:•×£ù`wF ÿ—E`HĞ
+ß ŸXä·×°H¼ø	¸Ê"_Àû´ F¶Zä5IîcÈ³ƒ‘öÇejÕ>åQê±ÎÔ·Ä´ÖEhì0Ğ.YÆ®NšgñH)€mŠŸ
+Œ‰56i`D	îôzø˜p]|ZåvÓI¸z”ÒıZ`´}XCÛÓÀ^…*…*›Uù:ÀQEÀüv–÷ÛBæ%À÷Àk*(§+§ğššûé~ŸRxÃ‡7HÎõâ qyò:ùaËZB¼tõá©zX‘®¸+ ^ä2 Ø­(Ö(Ø50£Î”¨iº§‘»è~!CÇ"1+%#ô:#¨ryUãS¾èÀ­×C¾ØÈö:E¶²Maêõf½ Tá¨±È¹úeZä#¡ Fj §-ò6ÜI„©Ç­bHŒœ²í³ÆÆ}c.OÇg5R8c‘7ÚÅ[u#ş-²@S`ğĞ,*Dû¥¦¼;=‹uÎª”õœSğr¢¤èµ•H´¡–úún¨f¤“e,¯n2WÂd.ÇeK	‰\Ç}c­=^â!jòésË¾;=^AÚZ#n
+<®8Ø$_·êZ˜	ŒæõX§ÀÕñ¸dg'Îª
+š™Võ–OğĞùÀ.€¤çpOC¦fº€yná+ŠÜ™Ö‰ªÁv7£b5å3SÌ’×‡C·pv&ïlW¡~mK¸÷|_ËÃ¡jˆ›yŒô5dª ‰¶·ë’Yà^¾‘Ê¹AÚpGLfm¤¶İİÊ—7Œô70])ö3¨'Y[mX±£ŒVTYm2ÔáúKrkİs õJÔ”CF©1ğ°øxxè£%»…8ÇÔÿÛöå`#ƒcëRä³¥ñâ8Ã<`!pÛùh<C»·|G"«G1õ+±¹»ÎÏH(»j4¢¿Ç0¯‹£5N´ôä=‰hüFäèZå·ŒÒÆug§%t]§‡ïå/‚úµDzi;Z1Ì&ÏubD<_”k`’Îß9-ÖáµÆæ´¢8Îp)–²ñ²µT÷%ãåD¶øÎJOĞ/ÌEi¯·Ñ+×Ç³7ª;DÔ4 ß˜”åöş×»Ë‹Ö‘køÇMó}É úõCÅ}G"Ğ+[ä›Ÿ5ÅgÅÓ‘jê‘ÓA6¢àŞç÷á3L[ùÔ«¤á;½÷í–>Ì522$€şåÀ½@àO`¬ßĞ÷Ôø]½å$2ÉÇíWá"ËBWxG³Şl`½z—”ãj`¨‰äÅ]0ö±1›,á9YÎùLbsgÚ_Ğ{bÑØtdg´İ™êúSG‡†]ğŒ…¿BMÍ#/‡8ï&M|tº(¸%meûk“4Ptxšs)]J§R¢cJÔM7y9ËpËS™›lG¶ˆ¨*îf%C·_GnJ–#lPX·<Q~l\3C§øÇÇÄæ1ñ#şTº]Åì‘Œë$~ÒÃG“ŠÜc~"á:È&ëğ'œKb”™—'
+²l?dÛ`—ÊfÈ·‰³ÌÈò%jTÃQ[ ü`ğŒóL™{|uªîGè§Ø&nt0È9wÜ"E6]jz@„;Æ“’ó:â®]ä‘¯‘#¬¼N:<¡Kò¶–ÈÆvæ¨üm£~¶óï¥”ÎĞISÏ‘cÍ÷Ê#Œ†Éç.W.F|Éş³ƒ§‚ùù&9Â!±[:¤½õ •Ñ#ùF}+rèº/!Æ€Î¹s&ì¸pè-SóĞR_?GHüŸR¡y
+­@2Û‘ÊÏ°M]¨ò>†¼«dtÿ¦Ñ#Ô›[ıçÜ‰>“áşJÉÚé¦ÖÀAc(lV(?X:ü‘°G²åùåUCw·†©}şépOl—ÖĞ¥ÎLÉö24;•ÏR¯m·¼ Q’=Sû*]Å“"Üºˆ    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+
+‰PNG
+
+   IHDR         àw=ø   IDATx½“—cYFkcÿaÛ¶mÛ|e´mÛ¶»cÛ6Ç3ßÜó²î¼ ºkíb²÷Í9IU«œ!ë³ı»7¦ÿìÕ”GOFNcİİòèÊ˜°>üñ[HŞ»9W:­öt{« ‰¹œä¥Î«c·Ş*ÀÅ/¼=§±ôÖçoø_ú‚Ûs9QsÔ›Í¿?€P(„`0(Dü~?ñ‡ÅîêYh”(—ó@Æ°õ	<“éàõú™8Äååø|¾ß¥@™xíé,ô®bñ$Œìûê“YQNt®ËãÔUt:3“ø_ ¤wQ±üT‰d‡ïg°ôh‡ï¥1ÿPËEÖpA&ÓÀl¶’ôÕGïLáøÃtÉÜ‹åCZâxüD­ÖÀöa#ÙóF$HÆ¡±¬9•Å;odL&E®ÉÔÒ˜´P©õ0Œ¹¤–íÄË©ŒC¢“2â­oÈaÒ®èS¸§Kq9:2z.¾!s[°#	µ´cV4`ÌÊÆÊ É8´PÚÁ‘i,?Å!¶ú}û™Ë‰AÍqlÙ÷ÉØ.Ì¶îÃÉK7HÌ‘|¾ŠĞ.â‰$Œî„Ó¥ò59´gÛ®`Aıvœ»~3«×³N§óÅNåÔJ”Ë‰Uûœ˜W³#ÖàÆıÇ´p—ËE»¥ÒŠ%9QCÿ†(F/lÀÌµ°ñÀ1X­V1àp8è•HHKÄår¢£aÏ-<}¦ÂÂ¦­,r‚)Ğ¶6ıGÇ7m…V²1Éä¨5z,nŞ«wÀn·—º	Á>¿¬ÿŞ^È€Ó®œµi‘¶ĞfMÍ(”Z&˜Ìæ’1U½é™2ÿÌw?ö<‡zø¾û9¬¨½%ŞŞd2Ãb±o 3|Ê•èO½.XQwr6­&ú<ğ éí‹„;‹îÍäµ…å*•èÊ…1Ù«À¼y×¾ZQsÉ “)¡Vk¡Õj¡×ëE¿rıi¿ªÖ8ÿ®[Àï±~[    IEND®B`‚
+------MultipartBoundary--4NGmccinfVz7fDbm1rPCtPtxb4Llibgtxk2yLpQC1e------
